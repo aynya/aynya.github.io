@@ -15,127 +15,83 @@
         <id>http://gardencavy.site/Eng%E7%AC%94%E8%AE%B0/</id>
         <title>Eng笔记</title>
         <link rel="alternate" href="http://gardencavy.site/Eng%E7%AC%94%E8%AE%B0/"/>
-        <content type="html">&lt;p&gt;此笔记来自兔老爹 b 站视频 ()[&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuYmlsaWJpbGkuY29tL3ZpZGVvL0JWMVhZNDExSjdhRz9zcG1faWRfZnJvbT0zMzMuNzg4LnBsYXllci5zd2l0Y2gmYW1wO3ZkX3NvdXJjZT04ZDM5MTFiM2VhMWE2MDFiY2RmNDA3YTlkZGExNWMwMSZhbXA7cD0y&#34;&gt;https://www.bilibili.com/video/BV1XY411J7aG?spm_id_from=333.788.player.switch&amp;amp;vd_source=8d3911b3ea1a601bcdf407a9dda15c01&amp;amp;p=2&lt;/span&gt;]&lt;/p&gt;
-&lt;h3 id=&#34;语法综述&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#语法综述&#34;&gt;#&lt;/a&gt; 语法综述&lt;/h3&gt;
-&lt;h4 id=&#34;动作动词&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#动作动词&#34;&gt;#&lt;/a&gt; 动作 (动词)&lt;/h4&gt;
-&lt;p&gt;1、可以独立完成的动词&lt;br&gt;
-主语 + &lt;mark&gt;不及物动词&lt;/mark&gt;&lt;/p&gt;
+        <content type="html">&lt;p&gt;此笔记来自兔老爹b站视频()[&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuYmlsaWJpbGkuY29tL3ZpZGVvL0JWMVhZNDExSjdhRz9zcG1faWRfZnJvbT0zMzMuNzg4LnBsYXllci5zd2l0Y2gmdmRfc291cmNlPThkMzkxMWIzZWExYTYwMWJjZGY0MDdhOWRkYTE1YzAxJnA9MiU1RA==&#34;&gt;https://www.bilibili.com/video/BV1XY411J7aG?spm_id_from=333.788.player.switch&amp;amp;vd_source=8d3911b3ea1a601bcdf407a9dda15c01&amp;amp;p=2]&lt;/span&gt;&lt;/p&gt;
+&lt;h3 id=&#34;语法综述&#34;&gt;&lt;a href=&#34;#语法综述&#34; class=&#34;headerlink&#34; title=&#34;语法综述&#34;&gt;&lt;/a&gt;语法综述&lt;/h3&gt;&lt;h4 id=&#34;动作-动词&#34;&gt;&lt;a href=&#34;#动作-动词&#34; class=&#34;headerlink&#34; title=&#34;动作(动词)&#34;&gt;&lt;/a&gt;动作(动词)&lt;/h4&gt;&lt;p&gt;1、可以独立完成的动词&lt;br&gt;主语+ &amp;#x3D;&amp;#x3D;不及物动词&amp;#x3D;&amp;#x3D;&lt;/p&gt;
 &lt;figure class=&#34;highlight plaintext&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;Papa Rabbit sleeps.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;兔子睡觉&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;p&gt;2、有 1 个动作的承受者&lt;br&gt;
-主语 +&lt;mark&gt; 单及物动词&lt;/mark&gt; + 宾语&lt;/p&gt;
+
+&lt;p&gt;2、有1个动作的承受者&lt;br&gt;主语+&amp;#x3D;&amp;#x3D;单及物动词&amp;#x3D;&amp;#x3D;+宾语&lt;/p&gt;
 &lt;figure class=&#34;highlight plaintext&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;Papa Rabbit likes you.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;兔子喜欢你&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;p&gt;3、有 2 个动作承受者&lt;br&gt;
-主语 + &lt;mark&gt;双及物动词&lt;/mark&gt; + 间接宾语 + 直接宾语&lt;/p&gt;
+
+&lt;p&gt;3、有2个动作承受者&lt;br&gt;主语 + &amp;#x3D;&amp;#x3D;双及物动词&amp;#x3D;&amp;#x3D; + 间接宾语 + 直接宾语&lt;/p&gt;
 &lt;figure class=&#34;highlight plaintext&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;Papa Rabbit teaches you English&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;兔子教你英语&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;p&gt;4、只有 1 个动作承受 (但需补充)&lt;br&gt;
- 主语 + &lt;mark&gt;复杂及物动词&lt;/mark&gt; + 宾语 + (宾语) 补语&lt;/p&gt;
+
+&lt;p&gt;4、只有1个动作承受(但需补充)&lt;br&gt;主语 + &amp;#x3D;&amp;#x3D;复杂及物动词&amp;#x3D;&amp;#x3D; + 宾语 + (宾语)补语&lt;/p&gt;
 &lt;figure class=&#34;highlight plaintext&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;sb considers you smart&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;某人认为你很聪明&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;p&gt;5、非 &amp;quot;动作&amp;quot;&lt;br&gt;
- 主语 + &lt;mark&gt;系动词&lt;/mark&gt; + (主语) 补语 / 表语&lt;/p&gt;
+
+&lt;p&gt;5、非”动作”&lt;br&gt;主语 + &amp;#x3D;&amp;#x3D;系动词&amp;#x3D;&amp;#x3D; + (主语)补语&amp;#x2F;表语&lt;/p&gt;
 &lt;figure class=&#34;highlight plaintext&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;sb is tall&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;sb &amp;lt;- tall&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;某人看起来高&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
 &lt;hr&gt;
-&lt;h4 id=&#34;句子&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#句子&#34;&gt;#&lt;/a&gt; 句子&lt;/h4&gt;
-&lt;p&gt;句子成分 (8 只): 主语、谓语动词、宾语、宾语补语、主语补语、定语、状语、同位语。&lt;/p&gt;
-&lt;p&gt;简单句 -&amp;gt; 作主语 -&amp;gt; 主语从句&lt;br&gt;
-&lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mtext&gt;           &lt;/mtext&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;~~~~~~~~~~~&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0em;vertical-align:0em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;-&amp;gt; 作宾语 -&amp;gt; 宾语从句&lt;br&gt;
-&lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mtext&gt;           &lt;/mtext&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;~~~~~~~~~~~&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0em;vertical-align:0em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;-&amp;gt; 作表语 -&amp;gt; 表语从句&lt;br&gt;
-&lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mtext&gt;           &lt;/mtext&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;~~~~~~~~~~~&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0em;vertical-align:0em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;-&amp;gt; 作同位语 -&amp;gt; 同位语从句&lt;br&gt;
-以上都是&lt;mark&gt;名词性&lt;/mark&gt;从句&lt;br&gt;
-&lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mtext&gt;           &lt;/mtext&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;~~~~~~~~~~~&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0em;vertical-align:0em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;-&amp;gt; 作定语 -&amp;gt; 定语从句&lt;br&gt;
-&lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mtext&gt;           &lt;/mtext&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;~~~~~~~~~~~&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0em;vertical-align:0em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;-&amp;gt; 作状语 -&amp;gt; 状语从句&lt;/p&gt;
+&lt;h4 id=&#34;句子&#34;&gt;&lt;a href=&#34;#句子&#34; class=&#34;headerlink&#34; title=&#34;句子&#34;&gt;&lt;/a&gt;句子&lt;/h4&gt;&lt;p&gt;句子成分(8只): 主语、谓语动词、宾语、宾语补语、主语补语、定语、状语、同位语。&lt;/p&gt;
+&lt;p&gt;简单句 -&amp;gt; 作主语 -&amp;gt; 主语从句&lt;br&gt;$~~~~~~~~~~~$-&amp;gt; 作宾语 -&amp;gt; 宾语从句&lt;br&gt;$~~~~~~~~~~~$-&amp;gt; 作表语 -&amp;gt; 表语从句&lt;br&gt;$~~~~~~~~~~~$-&amp;gt; 作同位语 -&amp;gt; 同位语从句&lt;br&gt;以上都是&amp;#x3D;&amp;#x3D;名词性&amp;#x3D;&amp;#x3D;从句&lt;br&gt;$~~~~~~~~~~~$-&amp;gt; 作定语 -&amp;gt; 定语从句&lt;br&gt;$~~~~~~~~~~~$-&amp;gt; 作状语 -&amp;gt; 状语从句&lt;/p&gt;
 &lt;hr&gt;
-&lt;h4 id=&#34;词性词类&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#词性词类&#34;&gt;#&lt;/a&gt; 词性 (词类)&lt;/h4&gt;
-&lt;p&gt;词性 (10 只): 动词 (Verbs)、名词 (Nouns)、冠词 (Articles)、代词 (Pronouns)、形容词 (Adjectives)、数词 (Numerals)、副词 (Adverbs)、介词 (Prepositions)、叹词 (Interjections)、连词 (Conjunctions)&lt;/p&gt;
+&lt;h4 id=&#34;词性-词类&#34;&gt;&lt;a href=&#34;#词性-词类&#34; class=&#34;headerlink&#34; title=&#34;词性(词类)&#34;&gt;&lt;/a&gt;词性(词类)&lt;/h4&gt;&lt;p&gt;词性(10只): 动词(Verbs)、名词(Nouns)、冠词(Articles)、代词(Pronouns)、形容词(Adjectives)、数词(Numerals)、副词(Adverbs)、介词(Prepositions)、叹词(Interjections)、连词(Conjunctions)&lt;/p&gt;
 &lt;hr&gt;
-&lt;h4 id=&#34;谓语动词的三大本领&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#谓语动词的三大本领&#34;&gt;#&lt;/a&gt; 谓语动词的 &amp;quot;三大本领&amp;quot;&lt;/h4&gt;
-&lt;p&gt;1、动作&lt;mark&gt;时间&lt;/mark&gt; (&lt;mark&gt;T&lt;/mark&gt;ense)&lt;br&gt;
- 2、动作&lt;mark&gt;状态&lt;/mark&gt; (&lt;mark&gt;A&lt;/mark&gt;spect)&lt;br&gt;
- 时间: &lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mtext&gt;        &lt;/mtext&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;~~~~~~~~&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0em;vertical-align:0em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; 动作:&lt;br&gt;
- 现在&lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mtext&gt;          &lt;/mtext&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;~~~~~~~~~~&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0em;vertical-align:0em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; 一般&lt;br&gt;
-过去&lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mtext&gt;          &lt;/mtext&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;~~~~~~~~~~&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0em;vertical-align:0em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; 完成&lt;br&gt;
-将来&lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mtext&gt;          &lt;/mtext&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;~~~~~~~~~~&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0em;vertical-align:0em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; 进行&lt;br&gt;
-过去将来&lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mtext&gt;   &lt;/mtext&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;~~~&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0em;vertical-align:0em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; 完成进行&lt;/p&gt;
-&lt;p&gt;以上排列组合可以得到&lt;mark&gt; 16&lt;/mark&gt; 种可能的时态&lt;/p&gt;
-&lt;p&gt;3、表示动作假设、情感…(&lt;mark&gt;M&lt;/mark&gt;ood)&lt;/p&gt;
+&lt;h4 id=&#34;谓语动词的”三大本领”&#34;&gt;&lt;a href=&#34;#谓语动词的”三大本领”&#34; class=&#34;headerlink&#34; title=&#34;谓语动词的”三大本领”&#34;&gt;&lt;/a&gt;谓语动词的”三大本领”&lt;/h4&gt;&lt;p&gt;1、动作&amp;#x3D;&amp;#x3D;时间&amp;#x3D;&amp;#x3D;(&amp;#x3D;&amp;#x3D;T&amp;#x3D;&amp;#x3D;ense)&lt;br&gt;2、动作&amp;#x3D;&amp;#x3D;状态&amp;#x3D;&amp;#x3D;(&amp;#x3D;&amp;#x3D;A&amp;#x3D;&amp;#x3D;spect)&lt;br&gt;时间: $~~~~~~~~$动作:&lt;br&gt;现在$~~~~~~~~~~$一般&lt;br&gt;过去$~~~~~~~~~~$完成&lt;br&gt;将来$~~~~~~~~~~$进行&lt;br&gt;过去将来$~~~$完成进行&lt;/p&gt;
+&lt;p&gt;以上排列组合可以得到&amp;#x3D;&amp;#x3D;16&amp;#x3D;&amp;#x3D;种可能的时态&lt;/p&gt;
+&lt;p&gt;3、表示动作假设、情感…(&amp;#x3D;&amp;#x3D;M&amp;#x3D;&amp;#x3D;ood)&lt;/p&gt;
 &lt;figure class=&#34;highlight plaintext&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;If I were a rabbit...&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;(虚拟语气)&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;p&gt;时体气: &lt;mark&gt;TAM&lt;/mark&gt;&lt;/p&gt;
+
+&lt;p&gt;时体气: &amp;#x3D;&amp;#x3D;TAM&amp;#x3D;&amp;#x3D;&lt;/p&gt;
 &lt;hr&gt;
-&lt;h4 id=&#34;协助谓语动词的助动词&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#协助谓语动词的助动词&#34;&gt;#&lt;/a&gt; 协助谓语动词的–助动词&lt;/h4&gt;
-&lt;p&gt;eat:&lt;br&gt;
-&lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mtext&gt;    &lt;/mtext&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;~~~~&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0em;vertical-align:0em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; 吃过了 (完成) -&amp;gt; have -&amp;gt; have eaten&lt;br&gt;
-&lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mtext&gt;    &lt;/mtext&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;~~~~&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0em;vertical-align:0em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; 正在吃 (进行) -&amp;gt; be &lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mtext&gt;   &lt;/mtext&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;~~~&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0em;vertical-align:0em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;-&amp;gt; is eating&lt;br&gt;
-&lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mtext&gt;    &lt;/mtext&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;~~~~&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0em;vertical-align:0em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; 被吃 &lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mtext&gt;            &lt;/mtext&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;~~~~~~~~~~~~&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0em;vertical-align:0em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;-&amp;gt;be&lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mtext&gt;     &lt;/mtext&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;~~~~~&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0em;vertical-align:0em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;-&amp;gt; is eaten&lt;br&gt;
-&lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mtext&gt;    &lt;/mtext&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;~~~~&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0em;vertical-align:0em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; 有能力吃 &lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mtext&gt;    &lt;/mtext&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;~~~~&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0em;vertical-align:0em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; -&amp;gt; can &lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mtext&gt;  &lt;/mtext&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;~~&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0em;vertical-align:0em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; -&amp;gt; can eat&lt;br&gt;
-&lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mtext&gt;    &lt;/mtext&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;~~~~&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0em;vertical-align:0em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; 有可能吃 &lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mtext&gt;     &lt;/mtext&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;~~~~~&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0em;vertical-align:0em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;-&amp;gt; might -&amp;gt; might eat&lt;br&gt;
-&lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mtext&gt;    &lt;/mtext&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;~~~~&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0em;vertical-align:0em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; 有义务吃 &lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mtext&gt;     &lt;/mtext&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;~~~~~&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0em;vertical-align:0em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;-&amp;gt; must &lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mtext&gt; &lt;/mtext&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;~&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0em;vertical-align:0em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;-&amp;gt; must eat&lt;br&gt;
-&lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mtext&gt;    &lt;/mtext&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;~~~~&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0em;vertical-align:0em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; 不吃 (否定) &lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mtext&gt;   &lt;/mtext&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;~~~&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0em;vertical-align:0em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;-&amp;gt; do &lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mtext&gt;    &lt;/mtext&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;~~~~&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0em;vertical-align:0em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;-&amp;gt; do not eat&lt;/p&gt;
+&lt;h4 id=&#34;协助谓语动词的–助动词&#34;&gt;&lt;a href=&#34;#协助谓语动词的–助动词&#34; class=&#34;headerlink&#34; title=&#34;协助谓语动词的–助动词&#34;&gt;&lt;/a&gt;协助谓语动词的–助动词&lt;/h4&gt;&lt;p&gt;eat:&lt;br&gt;$~~~~$吃过了(完成) -&amp;gt; have -&amp;gt; have eaten&lt;br&gt;$~~~~$正在吃(进行) -&amp;gt; be $~~~$-&amp;gt; is eating&lt;br&gt;$~~~~$被吃 $~~~~~~~~~~~~$-&amp;gt;be$~~~~~$-&amp;gt; is eaten&lt;br&gt;$~~~~$有能力吃 $~~~~$ -&amp;gt; can $~~$ -&amp;gt; can eat&lt;br&gt;$~~~~$有可能吃 $~~~~~$-&amp;gt; might -&amp;gt; might eat&lt;br&gt;$~~~~$有义务吃 $~~~~~$-&amp;gt; must $~$-&amp;gt; must eat&lt;br&gt;$~~~~$不吃(否定) $~~~$-&amp;gt; do $~~~~$-&amp;gt; do not eat&lt;/p&gt;
 &lt;hr&gt;
-&lt;h4 id=&#34;非谓语动词&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#非谓语动词&#34;&gt;#&lt;/a&gt; 非谓语动词&lt;/h4&gt;
-&lt;p&gt;非谓语动词通常出现：动词不定式、现在分词、动名词、过去分词&lt;/p&gt;
+&lt;h4 id=&#34;非谓语动词&#34;&gt;&lt;a href=&#34;#非谓语动词&#34; class=&#34;headerlink&#34; title=&#34;非谓语动词&#34;&gt;&lt;/a&gt;非谓语动词&lt;/h4&gt;&lt;p&gt;非谓语动词通常出现:动词不定式、现在分词、动名词、过去分词&lt;/p&gt;
 &lt;hr&gt;
-&lt;h3 id=&#34;动词分类&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#动词分类&#34;&gt;#&lt;/a&gt; 动词分类&lt;/h3&gt;
-&lt;p&gt;实义动词&lt;br&gt;
-&lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mtext&gt;    &lt;/mtext&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;~~~~&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0em;vertical-align:0em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; 按动作承受着分&lt;br&gt;
-&lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mtext&gt;    &lt;/mtext&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;~~~~&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0em;vertical-align:0em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mtext&gt;    &lt;/mtext&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;~~~~&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0em;vertical-align:0em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; 及物动词&lt;br&gt;
-&lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mtext&gt;    &lt;/mtext&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;~~~~&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0em;vertical-align:0em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mtext&gt;    &lt;/mtext&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;~~~~&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0em;vertical-align:0em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; 不及物动词&lt;br&gt;
-&lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mtext&gt;    &lt;/mtext&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;~~~~&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0em;vertical-align:0em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; 按动作状态分&lt;br&gt;
-&lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mtext&gt;    &lt;/mtext&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;~~~~&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0em;vertical-align:0em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mtext&gt;    &lt;/mtext&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;~~~~&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0em;vertical-align:0em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; 动作动词&lt;br&gt;
-&lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mtext&gt;    &lt;/mtext&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;~~~~&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0em;vertical-align:0em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mtext&gt;    &lt;/mtext&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;~~~~&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0em;vertical-align:0em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; 状态动词&lt;br&gt;
- (连) 系动词&lt;br&gt;
-助动词&lt;br&gt;
-情态动词&lt;br&gt;
-非谓语动词&lt;br&gt;
-&lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mtext&gt;    &lt;/mtext&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;~~~~&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0em;vertical-align:0em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; 不定式&lt;br&gt;
-&lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mtext&gt;    &lt;/mtext&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;~~~~&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0em;vertical-align:0em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; 过去分词&lt;br&gt;
-&lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mtext&gt;    &lt;/mtext&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;~~~~&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0em;vertical-align:0em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; 现在分词&lt;br&gt;
-&lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mtext&gt;    &lt;/mtext&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;~~~~&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0em;vertical-align:0em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mspace nobreak&#34;&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; 动名词&lt;/p&gt;
+&lt;h3 id=&#34;动词分类&#34;&gt;&lt;a href=&#34;#动词分类&#34; class=&#34;headerlink&#34; title=&#34;动词分类&#34;&gt;&lt;/a&gt;动词分类&lt;/h3&gt;&lt;p&gt;实义动词&lt;br&gt;$~~~~$按动作承受着分&lt;br&gt;$~~~~$$~~~~$及物动词&lt;br&gt;$~~~~$$~~~~$不及物动词&lt;br&gt;$~~~~$按动作状态分&lt;br&gt;$~~~~$$~~~~$动作动词&lt;br&gt;$~~~~$$~~~~$状态动词&lt;br&gt;(连)系动词&lt;br&gt;助动词&lt;br&gt;情态动词&lt;br&gt;非谓语动词&lt;br&gt;$~~~~$不定式&lt;br&gt;$~~~~$过去分词&lt;br&gt;$~~~~$现在分词&lt;br&gt;$~~~~$动名词&lt;/p&gt;
 &lt;hr&gt;
-&lt;h3 id=&#34;动词时态&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#动词时态&#34;&gt;#&lt;/a&gt; 动词时态&lt;/h3&gt;
-&lt;h4 id=&#34;一般现在时态&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#一般现在时态&#34;&gt;#&lt;/a&gt; 一般现在时态&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;mark&gt;动词原形&lt;/mark&gt;&lt;/li&gt;
-&lt;li&gt;&lt;mark&gt;动词原型 + s (第三人称单数)&lt;/mark&gt;&lt;/li&gt;
+&lt;h3 id=&#34;动词时态&#34;&gt;&lt;a href=&#34;#动词时态&#34; class=&#34;headerlink&#34; title=&#34;动词时态&#34;&gt;&lt;/a&gt;动词时态&lt;/h3&gt;&lt;h4 id=&#34;一般现在时态&#34;&gt;&lt;a href=&#34;#一般现在时态&#34; class=&#34;headerlink&#34; title=&#34;一般现在时态&#34;&gt;&lt;/a&gt;一般现在时态&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;&amp;#x3D;&amp;#x3D;动词原形&amp;#x3D;&amp;#x3D;&lt;/li&gt;
+&lt;li&gt;&amp;#x3D;&amp;#x3D;动词原型 + s(第三人称单数)&amp;#x3D;&amp;#x3D;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;figure class=&#34;highlight plaintext&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;I eat carrots. 我吃胡萝卜(并未特别指出状态)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;She eats carrots.&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;h5 id=&#34;1-表达事实&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#1-表达事实&#34;&gt;#&lt;/a&gt; 1、表达事实&lt;/h5&gt;
-&lt;figure class=&#34;highlight plaintext&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;I eat carrots. 我吃胡萝卜(事实陈述)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;The sun rises in the east. 太阳从东边升起&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;h5 id=&#34;2-表达习惯重复的动作&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#2-表达习惯重复的动作&#34;&gt;#&lt;/a&gt; 2、表达习惯 / 重复的动作&lt;/h5&gt;
-&lt;figure class=&#34;highlight plaintext&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;I play basketball. 我打篮球(我有这个习惯)&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;h5 id=&#34;3-表示预计发生的事&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#3-表示预计发生的事&#34;&gt;#&lt;/a&gt; 3、表示预计发生的事&lt;/h5&gt;
-&lt;figure class=&#34;highlight plaintext&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;The bus leaves at 8PM every day.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;公交车每晚八点离站&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h5 id=&#34;1、表达事实&#34;&gt;&lt;a href=&#34;#1、表达事实&#34; class=&#34;headerlink&#34; title=&#34;1、表达事实&#34;&gt;&lt;/a&gt;1、表达事实&lt;/h5&gt;&lt;figure class=&#34;highlight plaintext&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;I eat carrots. 我吃胡萝卜(事实陈述)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;The sun rises in the east. 太阳从东边升起&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h5 id=&#34;2、表达习惯-重复的动作&#34;&gt;&lt;a href=&#34;#2、表达习惯-重复的动作&#34; class=&#34;headerlink&#34; title=&#34;2、表达习惯&amp;#x2F;重复的动作&#34;&gt;&lt;/a&gt;2、表达习惯&amp;#x2F;重复的动作&lt;/h5&gt;&lt;figure class=&#34;highlight plaintext&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;I play basketball. 我打篮球(我有这个习惯)&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h5 id=&#34;3、表示预计发生的事&#34;&gt;&lt;a href=&#34;#3、表示预计发生的事&#34; class=&#34;headerlink&#34; title=&#34;3、表示预计发生的事&#34;&gt;&lt;/a&gt;3、表示预计发生的事&lt;/h5&gt;&lt;figure class=&#34;highlight plaintext&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;The bus leaves at 8PM every day.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;公交车每晚八点离站&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
 &lt;hr&gt;
-&lt;h4 id=&#34;现在进行时态&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#现在进行时态&#34;&gt;#&lt;/a&gt; 现在进行时态&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;mark&gt;助动词 be 的变位 + 动词的现在分词&lt;/mark&gt;&lt;/li&gt;
+&lt;h4 id=&#34;现在进行时态&#34;&gt;&lt;a href=&#34;#现在进行时态&#34; class=&#34;headerlink&#34; title=&#34;现在进行时态&#34;&gt;&lt;/a&gt;现在进行时态&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;&amp;#x3D;&amp;#x3D;助动词be的变位 + 动词的现在分词&amp;#x3D;&amp;#x3D;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h5 id=&#34;现在分词&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#现在分词&#34;&gt;#&lt;/a&gt; 现在分词&lt;/h5&gt;
-&lt;p&gt;通常: + ing&lt;/p&gt;
+&lt;h5 id=&#34;现在分词&#34;&gt;&lt;a href=&#34;#现在分词&#34; class=&#34;headerlink&#34; title=&#34;现在分词&#34;&gt;&lt;/a&gt;现在分词&lt;/h5&gt;&lt;p&gt;通常: + ing&lt;/p&gt;
 &lt;figure class=&#34;highlight plaintext&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;如: looking(看), smelling(闻), tasting(品尝)...&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;有些动词需要改变拼写, 如: &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;write -&amp;gt; writing, 不是writeing&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;hit -&amp;gt; hitting, 不是hiting&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;die -&amp;gt; dying, 不是dieing&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
 &lt;hr&gt;
-&lt;h4 id=&#34;现在完成时态&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#现在完成时态&#34;&gt;#&lt;/a&gt; 现在完成时态&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;mark&gt;助动词 have 的变位 + 动词的过去分词&lt;/mark&gt;&lt;/li&gt;
+&lt;h4 id=&#34;现在完成时态&#34;&gt;&lt;a href=&#34;#现在完成时态&#34; class=&#34;headerlink&#34; title=&#34;现在完成时态&#34;&gt;&lt;/a&gt;现在完成时态&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;&amp;#x3D;&amp;#x3D;助动词have的变位 + 动词的过去分词&amp;#x3D;&amp;#x3D;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h5 id=&#34;过去分词&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#过去分词&#34;&gt;#&lt;/a&gt; 过去分词&lt;/h5&gt;
-&lt;p&gt;通常: + ed&lt;/p&gt;
+&lt;h5 id=&#34;过去分词&#34;&gt;&lt;a href=&#34;#过去分词&#34; class=&#34;headerlink&#34; title=&#34;过去分词&#34;&gt;&lt;/a&gt;过去分词&lt;/h5&gt;&lt;p&gt;通常: + ed&lt;/p&gt;
 &lt;figure class=&#34;highlight plaintext&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;如: looked(看), smelled(闻), tasted(品尝)...&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;有些动词是&amp;quot;不规则变化&amp;quot;, 如: &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;eat -&amp;gt; eaten; eat, give see, fall -&amp;gt; eaten, given, seen, fallen&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;bring -&amp;gt; brought; bring, buy, fight, think -&amp;gt; brought, bought, fought, thought&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;feel -&amp;gt; felt; feel, keep, sleep, leave -&amp;gt; felt, kept, slept, left&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;p&gt;过去分词！= 过去式&lt;/p&gt;
+&lt;p&gt;过去分词 !&amp;#x3D; 过去式&lt;/p&gt;
 &lt;figure class=&#34;highlight plaintext&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;I have eaten carrots. 我吃过胡萝卜&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
 &lt;hr&gt;
-&lt;h4 id=&#34;现在完成进行时态&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#现在完成进行时态&#34;&gt;#&lt;/a&gt; 现在完成进行时态&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;mark&gt;have 的变位 + been + 动词的现在分词&lt;/mark&gt;&lt;/li&gt;
+&lt;h4 id=&#34;现在完成进行时态&#34;&gt;&lt;a href=&#34;#现在完成进行时态&#34; class=&#34;headerlink&#34; title=&#34;现在完成进行时态&#34;&gt;&lt;/a&gt;现在完成进行时态&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;&amp;#x3D;&amp;#x3D;have的变位 + been + 动词的现在分词&amp;#x3D;&amp;#x3D;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;figure class=&#34;highlight plaintext&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;I eat carrots.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;I have been eating carrots. 我在吃胡萝卜(不但吃了一些, 还要接着吃)&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
 &lt;hr&gt;
-&lt;h4 id=&#34;一般过去时态&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#一般过去时态&#34;&gt;#&lt;/a&gt; 一般过去时态&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;mark&gt;+ 动词过去式&lt;/mark&gt;&lt;/li&gt;
+&lt;h4 id=&#34;一般过去时态&#34;&gt;&lt;a href=&#34;#一般过去时态&#34; class=&#34;headerlink&#34; title=&#34;一般过去时态&#34;&gt;&lt;/a&gt;一般过去时态&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;&amp;#x3D;&amp;#x3D;+ 动词过去式&amp;#x3D;&amp;#x3D;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h5 id=&#34;过去式&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#过去式&#34;&gt;#&lt;/a&gt; 过去式&lt;/h5&gt;
-&lt;p&gt;通常: + ed&lt;/p&gt;
+&lt;h5 id=&#34;过去式&#34;&gt;&lt;a href=&#34;#过去式&#34; class=&#34;headerlink&#34; title=&#34;过去式&#34;&gt;&lt;/a&gt;过去式&lt;/h5&gt;&lt;p&gt;通常: + ed&lt;/p&gt;
 &lt;figure class=&#34;highlight plaintext&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;如: looked(看), smelled(闻), tasted(品尝)...&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;p&gt;有些动词是 &amp;quot;不规则变化&amp;quot;, 如:&lt;/p&gt;
+&lt;p&gt;有些动词是”不规则变化”, 如: &lt;/p&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -144,8 +100,7 @@
 &lt;th&gt;动词过去分词&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
+&lt;tbody&gt;&lt;tr&gt;
 &lt;td&gt;do&lt;/td&gt;
 &lt;td&gt;did&lt;/td&gt;
 &lt;td&gt;done&lt;/td&gt;
@@ -180,95 +135,95 @@
 &lt;td&gt;spoke&lt;/td&gt;
 &lt;td&gt;spoken&lt;/td&gt;
 &lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
+&lt;/tbody&gt;&lt;/table&gt;
 &lt;figure class=&#34;highlight plaintext&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;The rabbit ate a carrot. 兔子吃了胡萝卜(只知道兔子过去某个时刻正在吃胡萝卜)&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;h5 id=&#34;过去的习惯动作&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#过去的习惯动作&#34;&gt;#&lt;/a&gt; 过去的习惯动作&lt;/h5&gt;
-&lt;figure class=&#34;highlight plaintext&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;I used to play basketball. (我曾经常打篮球)&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h5 id=&#34;过去的习惯动作&#34;&gt;&lt;a href=&#34;#过去的习惯动作&#34; class=&#34;headerlink&#34; title=&#34;过去的习惯动作&#34;&gt;&lt;/a&gt;过去的习惯动作&lt;/h5&gt;&lt;figure class=&#34;highlight plaintext&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;I used to play basketball. (我曾经常打篮球)&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
 &lt;hr&gt;
-&lt;h4 id=&#34;过去进行时态&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#过去进行时态&#34;&gt;#&lt;/a&gt; 过去进行时态&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;mark&gt;助动词 be 的变位 + 动词的现在分词&lt;/mark&gt;&lt;/li&gt;
+&lt;h4 id=&#34;过去进行时态&#34;&gt;&lt;a href=&#34;#过去进行时态&#34; class=&#34;headerlink&#34; title=&#34;过去进行时态&#34;&gt;&lt;/a&gt;过去进行时态&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;&amp;#x3D;&amp;#x3D;助动词be的变位 + 动词的现在分词&amp;#x3D;&amp;#x3D;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;figure class=&#34;highlight plaintext&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;The rabbit is eating a carrot. -&amp;gt; The rabbit was eating a carrot.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;这兔子在过去某个时间点处在正在吃胡萝卜的过程中&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
 &lt;hr&gt;
-&lt;h4 id=&#34;现在完成时态-vs-一般过去时态&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#现在完成时态-vs-一般过去时态&#34;&gt;#&lt;/a&gt; 现在完成时态 vs. 一般过去时态&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;一般过去时态更注重于: &lt;mark&gt;动作有没有发生&lt;/mark&gt;&lt;/li&gt;
-&lt;li&gt;现在完成时态更注重于: &lt;mark&gt;动作完成了吗 (有影响)&lt;/mark&gt;&lt;/li&gt;
+&lt;h4 id=&#34;现在完成时态-vs-一般过去时态&#34;&gt;&lt;a href=&#34;#现在完成时态-vs-一般过去时态&#34; class=&#34;headerlink&#34; title=&#34;现在完成时态 vs. 一般过去时态&#34;&gt;&lt;/a&gt;现在完成时态 vs. 一般过去时态&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;一般过去时态更注重于: &amp;#x3D;&amp;#x3D;动作有没有发生&amp;#x3D;&amp;#x3D;&lt;/li&gt;
+&lt;li&gt;现在完成时态更注重于: &amp;#x3D;&amp;#x3D;动作完成了吗(有影响)&amp;#x3D;&amp;#x3D;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;h4 id=&#34;一般过去时态-vs-过去进行时态&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#一般过去时态-vs-过去进行时态&#34;&gt;#&lt;/a&gt; 一般过去时态 vs. 过去进行时态&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;一般过去时态可以看成&lt;mark&gt;一张照片&lt;/mark&gt;&lt;/li&gt;
-&lt;li&gt;过去进行时态可以看成&lt;mark&gt;一段视频&lt;/mark&gt;&lt;/li&gt;
+&lt;h4 id=&#34;一般过去时态-vs-过去进行时态&#34;&gt;&lt;a href=&#34;#一般过去时态-vs-过去进行时态&#34; class=&#34;headerlink&#34; title=&#34;一般过去时态 vs. 过去进行时态&#34;&gt;&lt;/a&gt;一般过去时态 vs. 过去进行时态&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;一般过去时态可以看成&amp;#x3D;&amp;#x3D;一张照片&amp;#x3D;&amp;#x3D;&lt;/li&gt;
+&lt;li&gt;过去进行时态可以看成&amp;#x3D;&amp;#x3D;一段视频&amp;#x3D;&amp;#x3D;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;h4 id=&#34;过去完成时态&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#过去完成时态&#34;&gt;#&lt;/a&gt; 过去完成时态&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;mark&gt;助动词 have 的变位&lt;/mark&gt; + 动词的过去分词&lt;/li&gt;
+&lt;h4 id=&#34;过去完成时态&#34;&gt;&lt;a href=&#34;#过去完成时态&#34; class=&#34;headerlink&#34; title=&#34;过去完成时态&#34;&gt;&lt;/a&gt;过去完成时态&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;&amp;#x3D;&amp;#x3D;助动词have的变位&amp;#x3D;&amp;#x3D; + 动词的过去分词&lt;/li&gt;
 &lt;/ul&gt;
 &lt;figure class=&#34;highlight plaintext&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;He tried to find me yesterday afternoon, but I had already gone to Shanghai&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;对于他试图找我那个时间点(昨天下午)来说, 过去某一点(昨天下午之前)我已经离开了, 去上海了, 所以影响就是: 他找不到我&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
 &lt;hr&gt;
-&lt;h4 id=&#34;过去完成进行时态&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#过去完成进行时态&#34;&gt;#&lt;/a&gt; 过去完成进行时态&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;mark&gt;助动词 have 的变位&lt;/mark&gt; + been + 动词的现在分词&lt;/li&gt;
+&lt;h4 id=&#34;过去完成进行时态&#34;&gt;&lt;a href=&#34;#过去完成进行时态&#34; class=&#34;headerlink&#34; title=&#34;过去完成进行时态&#34;&gt;&lt;/a&gt;过去完成进行时态&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;&amp;#x3D;&amp;#x3D;助动词have的变位&amp;#x3D;&amp;#x3D; + been + 动词的现在分词&lt;/li&gt;
 &lt;/ul&gt;
 &lt;figure class=&#34;highlight plaintext&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;The rabbit has been eating a carrot. -&amp;gt; The rabbit had been eating a carrot.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;兔子在过去的某个时间点已经吃了胡萝卜一段时间，并且后面还要吃。&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
 &lt;hr&gt;
-&lt;h4 id=&#34;一般将来时态&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#一般将来时态&#34;&gt;#&lt;/a&gt; 一般将来时态&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;mark&gt;will&lt;/mark&gt; + 动词原型&lt;/li&gt;
+&lt;h4 id=&#34;一般将来时态&#34;&gt;&lt;a href=&#34;#一般将来时态&#34; class=&#34;headerlink&#34; title=&#34;一般将来时态&#34;&gt;&lt;/a&gt;一般将来时态&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;&amp;#x3D;&amp;#x3D;will&amp;#x3D;&amp;#x3D; + 动词原型&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h5 id=&#34;将来某个时间点发生的动作说话者确定会发生的&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#将来某个时间点发生的动作说话者确定会发生的&#34;&gt;#&lt;/a&gt; 将来某个时间点发生的动作 (说话者确定会发生的)&lt;/h5&gt;
-&lt;figure class=&#34;highlight plaintext&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;The sun will rise again tomorrow.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;太阳明天也会照常升起&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;h5 id=&#34;将来某个时间点发生的动作-说话者确定会发生的&#34;&gt;&lt;a href=&#34;#将来某个时间点发生的动作-说话者确定会发生的&#34; class=&#34;headerlink&#34; title=&#34;将来某个时间点发生的动作(说话者确定会发生的)&#34;&gt;&lt;/a&gt;将来某个时间点发生的动作(说话者确定会发生的)&lt;/h5&gt;&lt;figure class=&#34;highlight plaintext&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;The sun will rise again tomorrow.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;太阳明天也会照常升起&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
 &lt;hr&gt;
-&lt;h4 id=&#34;将来进行时态&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#将来进行时态&#34;&gt;#&lt;/a&gt; 将来进行时态&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;will + &lt;mark&gt;be&lt;/mark&gt; + 动词的现在分词&lt;/li&gt;
+&lt;h4 id=&#34;将来进行时态&#34;&gt;&lt;a href=&#34;#将来进行时态&#34; class=&#34;headerlink&#34; title=&#34;将来进行时态&#34;&gt;&lt;/a&gt;将来进行时态&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;will + &amp;#x3D;&amp;#x3D;be&amp;#x3D;&amp;#x3D; + 动词的现在分词&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h5 id=&#34;将来某个时间某个动作是在进行过程&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#将来某个时间某个动作是在进行过程&#34;&gt;#&lt;/a&gt; 将来某个时间，某个动作是在进行过程&lt;/h5&gt;
-&lt;figure class=&#34;highlight plaintext&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;I will be eating a carrot for lunch tomorrow.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;我明天午饭会在吃胡萝卜这个动作过程中。&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;h5 id=&#34;将来某个时间，某个动作是在进行过程&#34;&gt;&lt;a href=&#34;#将来某个时间，某个动作是在进行过程&#34; class=&#34;headerlink&#34; title=&#34;将来某个时间，某个动作是在进行过程&#34;&gt;&lt;/a&gt;将来某个时间，某个动作是在进行过程&lt;/h5&gt;&lt;figure class=&#34;highlight plaintext&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;I will be eating a carrot for lunch tomorrow.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;我明天午饭会在吃胡萝卜这个动作过程中。&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
 &lt;hr&gt;
-&lt;h4 id=&#34;将来完成时态&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#将来完成时态&#34;&gt;#&lt;/a&gt; 将来完成时态&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;mark&gt;will + have&lt;/mark&gt; + 动词的过去分词&lt;/li&gt;
+&lt;h4 id=&#34;将来完成时态&#34;&gt;&lt;a href=&#34;#将来完成时态&#34; class=&#34;headerlink&#34; title=&#34;将来完成时态&#34;&gt;&lt;/a&gt;将来完成时态&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;&amp;#x3D;&amp;#x3D;will + have&amp;#x3D;&amp;#x3D; + 动词的过去分词&lt;/li&gt;
 &lt;/ul&gt;
 &lt;figure class=&#34;highlight plaintext&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;I will have finished making the video by 4PM tomorrow, so I can publish it after that.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;对于明天下午4点的那个时间点来说，我在那之前完成做视频，对明天下午四点钟有影响，影响是我可以发视频了。&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
 &lt;hr&gt;
-&lt;h4 id=&#34;将来完成进行时态&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#将来完成进行时态&#34;&gt;#&lt;/a&gt; 将来完成进行时态&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;mark&gt;will + 助动词 have 的变位&lt;/mark&gt; + been + 动词的现在分词&lt;/li&gt;
+&lt;h4 id=&#34;将来完成进行时态&#34;&gt;&lt;a href=&#34;#将来完成进行时态&#34; class=&#34;headerlink&#34; title=&#34;将来完成进行时态&#34;&gt;&lt;/a&gt;将来完成进行时态&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;&amp;#x3D;&amp;#x3D;will + 助动词have的变位&amp;#x3D;&amp;#x3D; + been + 动词的现在分词&lt;/li&gt;
 &lt;/ul&gt;
 &lt;figure class=&#34;highlight plaintext&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;I will have been eating carrots for 2 hours by 3PM tomorrow.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;我确定明天下午三点钟时，我不但已经吃了两个小时胡萝卜，而且还要接着吃。&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
 &lt;hr&gt;
-&lt;h4 id=&#34;一般过去将来时态&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#一般过去将来时态&#34;&gt;#&lt;/a&gt; 一般过去将来时态&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;mark&gt;would&lt;/mark&gt; + 动词原型&lt;/li&gt;
-&lt;li&gt;&lt;mark&gt;助动词 be 的过去变位 + going + to&lt;/mark&gt; + 动词原型&lt;/li&gt;
+&lt;h4 id=&#34;一般过去将来时态&#34;&gt;&lt;a href=&#34;#一般过去将来时态&#34; class=&#34;headerlink&#34; title=&#34;一般过去将来时态&#34;&gt;&lt;/a&gt;一般过去将来时态&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;&amp;#x3D;&amp;#x3D;would&amp;#x3D;&amp;#x3D; + 动词原型&lt;/li&gt;
+&lt;li&gt;&amp;#x3D;&amp;#x3D;助动词be的过去变位 + going + to&amp;#x3D;&amp;#x3D; + 动词原型&lt;/li&gt;
 &lt;/ul&gt;
 &lt;figure class=&#34;highlight plaintext&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;I said I would eat a carrot for lunch.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;我(之前)说过我会午饭吃根胡萝卜(对于我之前说的话来说是在将来)&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
 &lt;hr&gt;
-&lt;h4 id=&#34;过去将来进行时态&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#过去将来进行时态&#34;&gt;#&lt;/a&gt; 过去将来进行时态&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;mark&gt;would&lt;/mark&gt; + be + 动词的现在分词&lt;/li&gt;
+&lt;h4 id=&#34;过去将来进行时态&#34;&gt;&lt;a href=&#34;#过去将来进行时态&#34; class=&#34;headerlink&#34; title=&#34;过去将来进行时态&#34;&gt;&lt;/a&gt;过去将来进行时态&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;&amp;#x3D;&amp;#x3D;would&amp;#x3D;&amp;#x3D; + be + 动词的现在分词&lt;/li&gt;
 &lt;/ul&gt;
 &lt;figure class=&#34;highlight plaintext&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;I said I would be eating a carrot at 1PM tomorrow.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;我之前说我明天下午一点会在吃胡萝卜的这个过程中。&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
 &lt;hr&gt;
-&lt;h4 id=&#34;过去将来完成时态&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#过去将来完成时态&#34;&gt;#&lt;/a&gt; 过去将来完成时态&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;mark&gt;would&lt;/mark&gt; + have + 动词的过去分词&lt;/li&gt;
+&lt;h4 id=&#34;过去将来完成时态&#34;&gt;&lt;a href=&#34;#过去将来完成时态&#34; class=&#34;headerlink&#34; title=&#34;过去将来完成时态&#34;&gt;&lt;/a&gt;过去将来完成时态&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;&amp;#x3D;&amp;#x3D;would&amp;#x3D;&amp;#x3D; + have + 动词的过去分词&lt;/li&gt;
 &lt;/ul&gt;
 &lt;figure class=&#34;highlight plaintext&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;I said I would have eaten a carrot by 1PM tomorrow.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;我之前说我明天下午1点会已经做完吃胡萝卜这个动作。&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
 &lt;hr&gt;
-&lt;h4 id=&#34;过去将来完成进行时态&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#过去将来完成进行时态&#34;&gt;#&lt;/a&gt; 过去将来完成进行时态&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;mark&gt;would&lt;/mark&gt; + have + been + 动词的现在分词&lt;/li&gt;
+&lt;h4 id=&#34;过去将来完成进行时态&#34;&gt;&lt;a href=&#34;#过去将来完成进行时态&#34; class=&#34;headerlink&#34; title=&#34;过去将来完成进行时态&#34;&gt;&lt;/a&gt;过去将来完成进行时态&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;&amp;#x3D;&amp;#x3D;would&amp;#x3D;&amp;#x3D; + have + been + 动词的现在分词&lt;/li&gt;
 &lt;/ul&gt;
 &lt;figure class=&#34;highlight plaintext&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;I said I would have been eating lunch for 2 hours by 1PM tomorrow.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;我之前说明天下午一点时在吃中饭的过程中，之前吃了两个小时，之后还要吃&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
 &lt;hr&gt;
-&lt;h4 id=&#34;时态汇总&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#时态汇总&#34;&gt;#&lt;/a&gt; 时态汇总&lt;/h4&gt;
-&lt;table&gt;
+&lt;h4 id=&#34;时态汇总&#34;&gt;&lt;a href=&#34;#时态汇总&#34; class=&#34;headerlink&#34; title=&#34;时态汇总&#34;&gt;&lt;/a&gt;时态汇总&lt;/h4&gt;&lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th&gt;&lt;/th&gt;
@@ -278,8 +233,7 @@
 &lt;th&gt;完成进行&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
+&lt;tbody&gt;&lt;tr&gt;
 &lt;td&gt;现在&lt;/td&gt;
 &lt;td&gt;一般现在时态&lt;/td&gt;
 &lt;td&gt;现在进行时态&lt;/td&gt;
@@ -288,10 +242,10 @@
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;&lt;/td&gt;
-&lt;td&gt;eat/eats&lt;/td&gt;
-&lt;td&gt;am/is/are eating&lt;/td&gt;
-&lt;td&gt;has/have eaten&lt;/td&gt;
-&lt;td&gt;has/have been eating&lt;/td&gt;
+&lt;td&gt;eat&amp;#x2F;eats&lt;/td&gt;
+&lt;td&gt;am&amp;#x2F;is&amp;#x2F;are eating&lt;/td&gt;
+&lt;td&gt;has&amp;#x2F;have eaten&lt;/td&gt;
+&lt;td&gt;has&amp;#x2F;have been eating&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;过去&lt;/td&gt;
@@ -303,7 +257,7 @@
 &lt;tr&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;td&gt;ate&lt;/td&gt;
-&lt;td&gt;was/were eating&lt;/td&gt;
+&lt;td&gt;was&amp;#x2F;were eating&lt;/td&gt;
 &lt;td&gt;had eaten&lt;/td&gt;
 &lt;td&gt;had been eating&lt;/td&gt;
 &lt;/tr&gt;
@@ -335,8 +289,67 @@
 &lt;td&gt;would have eaten&lt;/td&gt;
 &lt;td&gt;would have been eating&lt;/td&gt;
 &lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;动词语气&#34;&gt;&lt;a href=&#34;#动词语气&#34; class=&#34;headerlink&#34; title=&#34;动词语气&#34;&gt;&lt;/a&gt;动词语气&lt;/h3&gt;&lt;h4 id=&#34;陈述语气&#34;&gt;&lt;a href=&#34;#陈述语气&#34; class=&#34;headerlink&#34; title=&#34;陈述语气&#34;&gt;&lt;/a&gt;陈述语气&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;描述现实&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure class=&#34;highlight plaintext&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;The rabbit ate the carrot.&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;hr&gt;
+&lt;h4 id=&#34;祈使语气&#34;&gt;&lt;a href=&#34;#祈使语气&#34; class=&#34;headerlink&#34; title=&#34;祈使语气&#34;&gt;&lt;/a&gt;祈使语气&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;命令&amp;#x2F;请求&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure class=&#34;highlight plaintext&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;Rabbit, eat the carrot!&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;ul&gt;
+&lt;li&gt;用&amp;#x3D;&amp;#x3D;第二人称, 你&amp;#x3D;&amp;#x3D;用一般现在时态&lt;/li&gt;
+&lt;li&gt;去掉”你”, 并保证动词原型&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure class=&#34;highlight plaintext&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;You eat the carrot! -&amp;gt; Eat the carrot!&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;You don&amp;#x27;t eat it! -&amp;gt; Don&amp;#x27;t eat it!&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;hr&gt;
+&lt;h4 id=&#34;虚拟语气&#34;&gt;&lt;a href=&#34;#虚拟语气&#34; class=&#34;headerlink&#34; title=&#34;虚拟语气&#34;&gt;&lt;/a&gt;虚拟语气&lt;/h4&gt;&lt;h5 id=&#34;和现在事实相反&#34;&gt;&lt;a href=&#34;#和现在事实相反&#34; class=&#34;headerlink&#34; title=&#34;和现在事实相反&#34;&gt;&lt;/a&gt;和现在事实相反&lt;/h5&gt;&lt;ul&gt;
+&lt;li&gt;条件句：过去式&lt;/li&gt;
+&lt;li&gt;主句：would + 动词原形&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure class=&#34;highlight plaintext&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;If I saw the rabbit now, I would bite him.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;注意这里的saw和would&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;这并非过去的时间&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;If I were you, I would give this video a thumbs-up.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;如果我是你，我会给视频点赞&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;言下之意：我不是你&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;h5 id=&#34;和将来事实相反-可能性很小&#34;&gt;&lt;a href=&#34;#和将来事实相反-可能性很小&#34; class=&#34;headerlink&#34; title=&#34;和将来事实相反(可能性很小)&#34;&gt;&lt;/a&gt;和将来事实相反(可能性很小)&lt;/h5&gt;&lt;ul&gt;
+&lt;li&gt;条件句：&amp;#x3D;&amp;#x3D;should&amp;#x2F;were to&amp;#x3D;&amp;#x3D; + 动词原型&lt;/li&gt;
+&lt;li&gt;主句：&amp;#x3D;&amp;#x3D;would&amp;#x2F;should&amp;#x2F;could&amp;#x2F;might&amp;#x3D;&amp;#x3D; + 动词原型&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure class=&#34;highlight plaintext&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;If I should see the rabbit tomorrow, I would bite him.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;注意这里的should see 和 would&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;If I should meet thee after long years, how should I greet thee?&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;万一我们将来重逢了，我又该如何面对你呢？&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;言下之意：我们相会遥遥无期。&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h5 id=&#34;和过去事实相反&#34;&gt;&lt;a href=&#34;#和过去事实相反&#34; class=&#34;headerlink&#34; title=&#34;和过去事实相反&#34;&gt;&lt;/a&gt;和过去事实相反&lt;/h5&gt;&lt;ul&gt;
+&lt;li&gt;条件句：&amp;#x3D;&amp;#x3D;had&amp;#x3D;&amp;#x3D; + 动词过去分词&lt;/li&gt;
+&lt;li&gt;主句：&amp;#x3D;&amp;#x3D;would have&amp;#x3D;&amp;#x3D; + 动词过去分词&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure class=&#34;highlight plaintext&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;If I had seen the rabbit a few days ago, I would have bitten him.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;注意这里的had seen 和 would have bitten&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;If I had watched this video before, I would have aced my test.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;我要是之前就看了这个视频，那绝对能考个好成绩。&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;言下之意：我没有考出好成绩。&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;hr&gt;
+&lt;h5 id=&#34;愿望，请求，建议，命令…&#34;&gt;&lt;a href=&#34;#愿望，请求，建议，命令…&#34; class=&#34;headerlink&#34; title=&#34;愿望，请求，建议，命令…&#34;&gt;&lt;/a&gt;愿望，请求，建议，命令…&lt;/h5&gt;&lt;h6 id=&#34;wish-可能性小-希望-hope&#34;&gt;&lt;a href=&#34;#wish-可能性小-希望-hope&#34; class=&#34;headerlink&#34; title=&#34;wish(可能性小) 希望 hope&#34;&gt;&lt;/a&gt;wish(可能性小) 希望 hope&lt;/h6&gt;&lt;p&gt;&amp;#x3D;&amp;#x3D;wish&amp;#x3D;&amp;#x3D;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;对现在的愿望：wish + 动词过去式&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure class=&#34;highlight plaintext&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;I wish that I were a rabbit.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;我希望我是只兔子&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;ul&gt;
+&lt;li&gt;对过去的愿望：wish + had&amp;#x2F;would have + 动词过去分词&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure class=&#34;highlight plaintext&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;I wish (that) I had eaten the carrot.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;我希望我吃了那只胡萝卜&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;ul&gt;
+&lt;li&gt;对将来的愿望：wish + should + 动词原型&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure class=&#34;highlight plaintext&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;I wish (that) I could eat the carrot.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;我希望我能吃那只胡萝卜。&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;&amp;#x3D;&amp;#x3D;demand, suggest, insist, order…表示要求&amp;#x2F;建议&amp;#x2F;坚持&amp;#x2F;命令&amp;#x3D;&amp;#x3D;&lt;br&gt;后面都 + &amp;#x3D;&amp;#x3D;should + 动词原型&amp;#x3D;&amp;#x3D;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h4 id=&#34;语气总结&#34;&gt;&lt;a href=&#34;#语气总结&#34; class=&#34;headerlink&#34; title=&#34;语气总结&#34;&gt;&lt;/a&gt;语气总结&lt;/h4&gt;&lt;p&gt;陈述语气：描述现实&lt;br&gt;祈使语气：命令，请求…&lt;br&gt;虚拟语气：”脑中的”, “非现实的”…&lt;br&gt;$~~~~$与事实相反的假设&lt;br&gt;$~~~~$$~~~~$与现在相反：if + 过去式; would + 原型&lt;br&gt;$~~~~$$~~~~$与过去相反：if + 过去完成时; would have + 过去分词&lt;br&gt;$~~~~$$~~~~$与将来相反：if + should + 原型; would + 原型&lt;br&gt;$~~~~$表达愿望，请求，建议，命令等&lt;br&gt;$~~~~$$~~~~$wish&lt;br&gt;$~~~~$$~~~~$$~~~~$与现在相反：wish + 过去式&lt;br&gt;$~~~~$$~~~~$$~~~~$与过去相反：wish + 过去完成时&lt;br&gt;$~~~~$$~~~~$$~~~~$与将来相反：wish + would&amp;#x2F;could&amp;#x2F;might + 动词原型&lt;br&gt;$~~~~$$~~~~$demand,suggest,insist,would,rather…&lt;br&gt;$~~~~$$~~~~$$~~~~$主句从句，并与从句，表语从句，定语从句&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;非谓语动词-1&#34;&gt;&lt;a href=&#34;#非谓语动词-1&#34; class=&#34;headerlink&#34; title=&#34;非谓语动词&#34;&gt;&lt;/a&gt;非谓语动词&lt;/h3&gt;&lt;p&gt;动词 -&amp;gt; 谓语动词 -&amp;gt; &amp;#x3D;&amp;#x3D;”核心”&amp;#x3D;&amp;#x3D;&lt;br&gt;动词 -&amp;gt; 非谓语动词 -&amp;gt; &amp;#x3D;&amp;#x3D;”非核心”&amp;#x3D;&amp;#x3D;&lt;/p&gt;
+&lt;h4 id=&#34;动词不定式&#34;&gt;&lt;a href=&#34;#动词不定式&#34; class=&#34;headerlink&#34; title=&#34;动词不定式&#34;&gt;&lt;/a&gt;动词不定式&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;to + 动词原型&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure class=&#34;highlight plaintext&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;To be or not to be, that is the question.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;生存还是毁灭，这是一个问题&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;You helped me (to) cook the carrot.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;你帮我做了胡萝卜。&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
 &lt;hr&gt;
 </content>
         <category term="English" scheme="http://gardencavy.site/categories/English/" />
