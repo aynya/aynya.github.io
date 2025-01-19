@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://gardencavy.site</id>
+    <id>https://aynya.github.io</id>
     <title>ay的博客</title>
     <subtitle>ay的博客</subtitle>
-    <icon>http://gardencavy.site/images/favicon.ico</icon>
-    <link href="http://gardencavy.site" />
+    <icon>https://aynya.github.io/images/favicon.ico</icon>
+    <link href="https://aynya.github.io" />
     <author>
       <name>ay</name>
     </author>
@@ -12,9 +12,9 @@
     <category term="博客" />
     <category term=" 笔记" />
     <entry>
-        <id>http://gardencavy.site/Eng%E7%AC%94%E8%AE%B0/</id>
+        <id>https://aynya.github.io/Eng%E7%AC%94%E8%AE%B0/</id>
         <title>Eng笔记</title>
-        <link rel="alternate" href="http://gardencavy.site/Eng%E7%AC%94%E8%AE%B0/"/>
+        <link rel="alternate" href="https://aynya.github.io/Eng%E7%AC%94%E8%AE%B0/"/>
         <content type="html">&lt;p&gt;此处是指为了存放笔记，方便复习，无它用&lt;br&gt;
 此笔记来自兔老爹 b 站视频 ()[&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuYmlsaWJpbGkuY29tL3ZpZGVvL0JWMVhZNDExSjdhRz9zcG1faWRfZnJvbT0zMzMuNzg4LnBsYXllci5zd2l0Y2gmYW1wO3ZkX3NvdXJjZT04ZDM5MTFiM2VhMWE2MDFiY2RmNDA3YTlkZGExNWMwMSZhbXA7cD0y&#34;&gt;https://www.bilibili.com/video/BV1XY411J7aG?spm_id_from=333.788.player.switch&amp;amp;vd_source=8d3911b3ea1a601bcdf407a9dda15c01&amp;amp;p=2&lt;/span&gt;]&lt;/p&gt;
 &lt;h3 id=&#34;语法综述&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#语法综述&#34;&gt;#&lt;/a&gt; 语法综述&lt;/h3&gt;
@@ -498,14 +498,14 @@
 &lt;figure class=&#34;highlight plaintext&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;Seen from the hill, the carrot field looks beautiful.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;(被看)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;从山上看，胡萝卜田看上去很美。&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;Seeing the carrot field, the rabbit ran towards it.&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;(主动看)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;看到胡萝卜田，兔子朝它跑去。&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 &lt;hr&gt;
 </content>
-        <category term="English" scheme="http://gardencavy.site/categories/English/" />
-        <category term="English" scheme="http://gardencavy.site/tags/English/" />
+        <category term="English" scheme="https://aynya.github.io/categories/English/" />
+        <category term="English" scheme="https://aynya.github.io/tags/English/" />
         <updated>2025-01-14T16:00:00.000Z</updated>
     </entry>
     <entry>
-        <id>http://gardencavy.site/java%E7%AC%94%E8%AE%B0/</id>
+        <id>https://aynya.github.io/java%E7%AC%94%E8%AE%B0/</id>
         <title>java笔记</title>
-        <link rel="alternate" href="http://gardencavy.site/java%E7%AC%94%E8%AE%B0/"/>
+        <link rel="alternate" href="https://aynya.github.io/java%E7%AC%94%E8%AE%B0/"/>
         <content type="html">&lt;h3 id=&#34;面向对象&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#面向对象&#34;&gt;#&lt;/a&gt; 面向对象&lt;/h3&gt;
 &lt;h4 id=&#34;对象&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#对象&#34;&gt;#&lt;/a&gt; 对象&lt;/h4&gt;
 &lt;p&gt;1、对象是啥？如何得到&lt;br&gt;
@@ -795,14 +795,14 @@ public                          1                             1                 
 &lt;figure class=&#34;highlight java&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;23&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;// 创建一个空的集合对象&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;public&lt;/span&gt; &lt;span class=&#34;title function_&#34;&gt;ArrayList&lt;/span&gt;&lt;span class=&#34;params&#34;&gt;()&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;// 将指定的元素添加到此集合的末尾&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;public&lt;/span&gt; &lt;span class=&#34;type&#34;&gt;boolean&lt;/span&gt; &lt;span class=&#34;title function_&#34;&gt;add&lt;/span&gt;&lt;span class=&#34;params&#34;&gt;(E e)&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;// 在此集合中的指定位置插入指定的元素&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;public&lt;/span&gt; &lt;span class=&#34;keyword&#34;&gt;void&lt;/span&gt; &lt;span class=&#34;title function_&#34;&gt;add&lt;/span&gt;&lt;span class=&#34;params&#34;&gt;(&lt;span class=&#34;type&#34;&gt;int&lt;/span&gt; index, E element)&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;// 返回指定元素索引处的元素&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;public&lt;/span&gt; E &lt;span class=&#34;title function_&#34;&gt;get&lt;/span&gt;&lt;span class=&#34;params&#34;&gt;(&lt;span class=&#34;type&#34;&gt;int&lt;/span&gt; index)&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;// 返回集合中元素的个数&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;public&lt;/span&gt; &lt;span class=&#34;type&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;title function_&#34;&gt;size&lt;/span&gt;&lt;span class=&#34;params&#34;&gt;()&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;// 删除指定索引处的元素，返回被删除的元素&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;public&lt;/span&gt; E &lt;span class=&#34;title function_&#34;&gt;remove&lt;/span&gt;&lt;span class=&#34;params&#34;&gt;(&lt;span class=&#34;type&#34;&gt;int&lt;/span&gt; index)&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;// 删除指定的元素，返回删除是否成功&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;public&lt;/span&gt; &lt;span class=&#34;type&#34;&gt;boolean&lt;/span&gt; &lt;span class=&#34;title function_&#34;&gt;remove&lt;/span&gt;&lt;span class=&#34;params&#34;&gt;(Object o)&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;// 修改指定索引处的元素，返回被修改的元素&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;public&lt;/span&gt; E &lt;span class=&#34;title function_&#34;&gt;set&lt;/span&gt;&lt;span class=&#34;params&#34;&gt;(&lt;span class=&#34;type&#34;&gt;int&lt;/span&gt; index, E element)&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 &lt;hr&gt;
 </content>
-        <category term="java" scheme="http://gardencavy.site/categories/java/" />
-        <category term="java" scheme="http://gardencavy.site/tags/java/" />
+        <category term="java" scheme="https://aynya.github.io/categories/java/" />
+        <category term="java" scheme="https://aynya.github.io/tags/java/" />
         <updated>2025-01-14T16:00:00.000Z</updated>
     </entry>
     <entry>
-        <id>http://gardencavy.site/hello-world/</id>
+        <id>https://aynya.github.io/hello-world/</id>
         <title>Hello World</title>
-        <link rel="alternate" href="http://gardencavy.site/hello-world/"/>
+        <link rel="alternate" href="https://aynya.github.io/hello-world/"/>
         <content type="html">&lt;p&gt;Welcome to &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvLw==&#34;&gt;Hexo&lt;/span&gt;! This is your very first post. Check &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3Mv&#34;&gt;documentation&lt;/span&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3MvdHJvdWJsZXNob290aW5nLmh0bWw=&#34;&gt;troubleshooting&lt;/span&gt; or you can ask me on &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2hleG9qcy9oZXhvL2lzc3Vlcw==&#34;&gt;GitHub&lt;/span&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;quick-start&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#quick-start&#34;&gt;#&lt;/a&gt; Quick Start&lt;/h2&gt;
 &lt;h3 id=&#34;create-a-new-post&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#create-a-new-post&#34;&gt;#&lt;/a&gt; Create a new post&lt;/h3&gt;

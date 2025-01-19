@@ -3,8 +3,8 @@
     <channel>
         <title>ay的博客</title>
         <subtitle>ay的博客</subtitle>
-        <icon>http://gardencavy.site/images/favicon.ico</icon>
-        <link>http://gardencavy.site</link>
+        <icon>https://aynya.github.io/images/favicon.ico</icon>
+        <link>https://aynya.github.io</link>
         <author>
           <name>ay</name>
         </author>
@@ -15,11 +15,11 @@
         <category term="博客" />
         <category term=" 笔记" />
         <item>
-            <guid isPermalink="true">http://gardencavy.site/Eng%E7%AC%94%E8%AE%B0/</guid>
+            <guid isPermalink="true">https://aynya.github.io/Eng%E7%AC%94%E8%AE%B0/</guid>
             <title>Eng笔记</title>
-            <link>http://gardencavy.site/Eng%E7%AC%94%E8%AE%B0/</link>
-            <category term="English" scheme="http://gardencavy.site/categories/English/" />
-            <category term="English" scheme="http://gardencavy.site/tags/English/" />
+            <link>https://aynya.github.io/Eng%E7%AC%94%E8%AE%B0/</link>
+            <category term="English" scheme="https://aynya.github.io/categories/English/" />
+            <category term="English" scheme="https://aynya.github.io/tags/English/" />
             <pubDate>Wed, 15 Jan 2025 00:00:00 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;此处是指为了存放笔记，方便复习，无它用&lt;br&gt;
 此笔记来自兔老爹 b 站视频 ()[&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuYmlsaWJpbGkuY29tL3ZpZGVvL0JWMVhZNDExSjdhRz9zcG1faWRfZnJvbT0zMzMuNzg4LnBsYXllci5zd2l0Y2gmYW1wO3ZkX3NvdXJjZT04ZDM5MTFiM2VhMWE2MDFiY2RmNDA3YTlkZGExNWMwMSZhbXA7cD0y&#34;&gt;https://www.bilibili.com/video/BV1XY411J7aG?spm_id_from=333.788.player.switch&amp;amp;vd_source=8d3911b3ea1a601bcdf407a9dda15c01&amp;amp;p=2&lt;/span&gt;]&lt;/p&gt;
@@ -506,11 +506,11 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://gardencavy.site/java%E7%AC%94%E8%AE%B0/</guid>
+            <guid isPermalink="true">https://aynya.github.io/java%E7%AC%94%E8%AE%B0/</guid>
             <title>java笔记</title>
-            <link>http://gardencavy.site/java%E7%AC%94%E8%AE%B0/</link>
-            <category term="java" scheme="http://gardencavy.site/categories/java/" />
-            <category term="java" scheme="http://gardencavy.site/tags/java/" />
+            <link>https://aynya.github.io/java%E7%AC%94%E8%AE%B0/</link>
+            <category term="java" scheme="https://aynya.github.io/categories/java/" />
+            <category term="java" scheme="https://aynya.github.io/tags/java/" />
             <pubDate>Wed, 15 Jan 2025 00:00:00 +0800</pubDate>
             <description><![CDATA[ &lt;h3 id=&#34;面向对象&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#面向对象&#34;&gt;#&lt;/a&gt; 面向对象&lt;/h3&gt;
 &lt;h4 id=&#34;对象&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#对象&#34;&gt;#&lt;/a&gt; 对象&lt;/h4&gt;
@@ -803,9 +803,9 @@ public                          1                             1                 
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://gardencavy.site/hello-world/</guid>
+            <guid isPermalink="true">https://aynya.github.io/hello-world/</guid>
             <title>Hello World</title>
-            <link>http://gardencavy.site/hello-world/</link>
+            <link>https://aynya.github.io/hello-world/</link>
             <pubDate>Mon, 13 Jan 2025 18:41:34 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;Welcome to &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvLw==&#34;&gt;Hexo&lt;/span&gt;! This is your very first post. Check &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3Mv&#34;&gt;documentation&lt;/span&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3MvdHJvdWJsZXNob290aW5nLmh0bWw=&#34;&gt;troubleshooting&lt;/span&gt; or you can ask me on &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2hleG9qcy9oZXhvL2lzc3Vlcw==&#34;&gt;GitHub&lt;/span&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;quick-start&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#quick-start&#34;&gt;#&lt;/a&gt; Quick Start&lt;/h2&gt;
