@@ -80,7 +80,7 @@ ay = ay的博客 = ay的博客</title>
       <i class="ic i-pen"></i>
     </span>
     <span class="text">本文字数</span>
-    <span>8.3k</span>
+    <span>9.2k</span>
     <span class="text">字</span>
   </span>
   <span class="item" title="阅读时长">
@@ -121,12 +121,12 @@ ay = ay的博客 = ay的博客</title>
       </div>
       <div id="imgs" class="pjax">
         <ul>
-          <li class="item" data-background-image="https://image.baidu.com/search/down?url=https://tva3.sinaimg.cn/large/6833939bly1gipet4bz0yj20zk0m8e81.jpg"></li>
-          <li class="item" data-background-image="https://image.baidu.com/search/down?url=https://tva3.sinaimg.cn/large/6833939bly1giclhtuo6nj20zk0m8ttm.jpg"></li>
-          <li class="item" data-background-image="https://image.baidu.com/search/down?url=https://tva3.sinaimg.cn/large/6833939bly1gipeu7txpzj20zk0m81kx.jpg"></li>
-          <li class="item" data-background-image="https://image.baidu.com/search/down?url=https://tva3.sinaimg.cn/large/6833939bly1giclwuom7cj20zk0m8dvn.jpg"></li>
+          <li class="item" data-background-image="https://image.baidu.com/search/down?url=https://tva3.sinaimg.cn/large/6833939bly1gicli9lfebj20zk0m84qp.jpg"></li>
+          <li class="item" data-background-image="https://image.baidu.com/search/down?url=https://tva3.sinaimg.cn/large/6833939bly1giclgi503lj20zk0m8hdt.jpg"></li>
           <li class="item" data-background-image="https://image.baidu.com/search/down?url=https://tva3.sinaimg.cn/large/6833939bly1giclxxcb6rj20zk0m8b29.jpg"></li>
-          <li class="item" data-background-image="https://image.baidu.com/search/down?url=https://tva3.sinaimg.cn/large/6833939bly1gicis3attqj20zk0m8k7l.jpg"></li>
+          <li class="item" data-background-image="https://image.baidu.com/search/down?url=https://tva3.sinaimg.cn/large/6833939bly1gipeu7txpzj20zk0m81kx.jpg"></li>
+          <li class="item" data-background-image="https://image.baidu.com/search/down?url=https://tva3.sinaimg.cn/large/6833939bly1giclxfdlttj20zk0m8npd.jpg"></li>
+          <li class="item" data-background-image="https://image.baidu.com/search/down?url=https://tva3.sinaimg.cn/large/6833939bly1giclh5u05ej20zk0m87df.jpg"></li>
         </ul>
       </div>
     </header>
@@ -172,293 +172,180 @@ ay = ay的博客 = ay的博客</title>
   <div class="body md" itemprop="articleBody">
     
 
-    <h3 id="面向对象"><a class="anchor" href="#面向对象">#</a> 面向对象</h3>
-<h4 id="对象"><a class="anchor" href="#对象">#</a> 对象</h4>
-<p>1、对象是啥？如何得到<br>
-对象就是一种特殊的数据结构。对象是用类 new 出来的，有了类就可以创建出对象</p>
+    <h3 id="面向对象"><a href="#面向对象" class="headerlink" title="面向对象"></a>面向对象</h3><h4 id="对象"><a href="#对象" class="headerlink" title="对象"></a>对象</h4><p>1、对象是啥？如何得到<br>对象就是一种特殊的数据结构。对象是用类new出来的，有了类就可以创建出对象</p>
 <figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">public</span> class 类名&#123;</span><br><span class="line">	<span class="number">1</span>、变量，用来说明对象可以处理什么数据</span><br><span class="line">	<span class="number">2</span>、方法，描述对象有什么功能</span><br><span class="line">	......</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
 <hr>
-<h4 id="构造器"><a class="anchor" href="#构造器">#</a> 构造器</h4>
-<p>构造器是什么样子的？</p>
+<h4 id="构造器"><a href="#构造器" class="headerlink" title="构造器"></a>构造器</h4><p>构造器是什么样子的？</p>
 <figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">public</span> <span class="keyword">class</span> <span class="title class_">Student</span>&#123;</span><br><span class="line">	<span class="keyword">public</span> <span class="title function_">Student</span><span class="params">()</span> &#123;</span><br><span class="line">		....</span><br><span class="line">	&#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-<p>构造器有什么特点？<br>
-创建对象时，对象回去调用构造器</p>
+
+<p>构造器有什么特点？<br>创建对象时，对象回去调用构造器</p>
 <figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="type">Student</span> <span class="variable">s</span> <span class="operator">=</span> <span class="keyword">new</span> <span class="title class_">Student</span>();</span><br></pre></td></tr></table></figure>
-<p>构造器的常见应用场景<br>
-创建对象时，同时完成对对象成员变量的初始化赋值</p>
-<p>构造器的注意事项<br>
- 1、类默认自带一个<mark>无参构造器</mark><br>
- 2、如果为类定义了一个有参数构造器，类默认的无参构造器就<mark>没有了</mark>，此时如果还想使用无参构造器，就必须手写一个无参构造器出来。</p>
+
+<p>构造器的常见应用场景<br>创建对象时，同时完成对对象成员变量的初始化赋值</p>
+<p>构造器的注意事项<br>1、类默认自带一个&#x3D;&#x3D;无参构造器&#x3D;&#x3D;<br>2、如果为类定义了一个有参数构造器，类默认的无参构造器就&#x3D;&#x3D;没有了&#x3D;&#x3D;，此时如果还想使用无参构造器，就必须手写一个无参构造器出来。</p>
 <hr>
-<h4 id="this关键字"><a class="anchor" href="#this关键字">#</a> this 关键字</h4>
-<p>this 就是一个变量，可以用在方法中，来拿到当前对象<br>
-那个对象调用方法，this 就指向哪一个对象，也就是拿到哪一个对象</p>
-<p>this 可以用来解决对象的成员变量与方法内部变量的名称一样时，导致访问冲突问题的</p>
+<h4 id="this关键字"><a href="#this关键字" class="headerlink" title="this关键字"></a>this关键字</h4><p>this就是一个变量，可以用在方法中，来拿到当前对象<br>那个对象调用方法，this就指向哪一个对象，也就是拿到哪一个对象</p>
+<p>this可以用来解决对象的成员变量与方法内部变量的名称一样时，导致访问冲突问题的</p>
 <hr>
-<h4 id="封装"><a class="anchor" href="#封装">#</a> 封装</h4>
-<p>封装就是用类设计对象处理某一个事物的数据时，应该要把处理的数据，以及处理这些数据的方法设计到一个对象中去。<br>
-面向对象的三大特征：封装，继承，多态</p>
+<h4 id="封装"><a href="#封装" class="headerlink" title="封装"></a>封装</h4><p>封装就是用类设计对象处理某一个事物的数据时，应该要把处理的数据，以及处理这些数据的方法设计到一个对象中去。<br>面向对象的三大特征：封装，继承，多态</p>
 <p>封装的设计规范：合理隐藏，合理暴露</p>
-<p>公开成员，可以使用 public 修饰<br>
-隐藏成员，可以使用 private 修饰</p>
+<p>公开成员，可以使用public修饰<br>隐藏成员，可以使用private修饰</p>
 <hr>
-<h4 id="实体类"><a class="anchor" href="#实体类">#</a> 实体类</h4>
-<p>实体类的成员变量必须私有，且要为他们提供 get，set 方法；必须有无参构造器<br>
-仅仅只是一个用来保存数据的 java 类，可以用它创建对象，保存某个事物的数据</p>
+<h4 id="实体类"><a href="#实体类" class="headerlink" title="实体类"></a>实体类</h4><p>实体类的成员变量必须私有，且要为他们提供get，set方法；必须有无参构造器<br>仅仅只是一个用来保存数据的java类，可以用它创建对象，保存某个事物的数据</p>
 <p>实体类的应用场景：实体类对应的是软件开发里比较流行的开发方式 数据和数据的业务处理相分离</p>
 <hr>
-<h4 id="static"><a class="anchor" href="#static">#</a> static</h4>
-<h5 id="变量"><a class="anchor" href="#变量">#</a> 变量</h5>
-<p>叫静态，可以修饰成员变量、成员方法</p>
-<p>static 修饰的成员变量叫类变量（静态成员变量），<mark>类名。静态变量</mark>（推荐），对象名。静态变量（不推荐）</p>
-<p>无 static 修饰的成员变量叫实例变量（对象变量），属于对象，每个对象中都有一份。</p>
-<p>静态变量：数据只需要一份，且需要被共享时（访问，修改）<br>
-实例变量：每个对象都要有一份，数据各不同</p>
+<h4 id="static"><a href="#static" class="headerlink" title="static"></a>static</h4><h5 id="变量"><a href="#变量" class="headerlink" title="变量"></a>变量</h5><p>叫静态，可以修饰成员变量、成员方法</p>
+<p>static修饰的成员变量叫类变量（静态成员变量），&#x3D;&#x3D;类名.静态变量&#x3D;&#x3D;（推荐），对象名.静态变量（不推荐）</p>
+<p>无static修饰的成员变量叫实例变量（对象变量），属于对象，每个对象中都有一份。</p>
+<p>静态变量：数据只需要一份，且需要被共享时（访问，修改）<br>实例变量：每个对象都要有一份，数据各不同</p>
 <p>访问自己类中的类变量，可以省略类名不写，在某个类中访问其他类的类变量，必须带类名访问。</p>
-<h5 id="方法"><a class="anchor" href="#方法">#</a> 方法</h5>
-<p>static 修饰的成员方法叫<mark>静态方法</mark>，属于类，可以直接用类名访问，也可以用对象访问<br>
-<mark>类名。静态方法（推荐）</mark><br>
-对象名。静态方法（不推荐）<br>
-无 static 修饰的成员方法叫<mark>实例方法</mark>（对象方法），属于对象只能用对象访问</p>
-<p>静态方法可以用来设计工具类<br>
-工具类中的方法都是<mark>静态方法</mark>，每个类方法都是用来完成一个功能<br>
-提高了代码的复用性；调用方便，提高了开发效率</p>
-<p>如果工具类使用实例方法，实例方法需要创建对象来调用，会<mark>浪费内存</mark></p>
-<p>工具类不需要创建对象，<mark>建议将工具类的构造器私有化</mark></p>
-<p>静态方法中可以直接访问静态成员，不可以直接访问实例成员<br>
-实例方法中既可以直接访问静态静态成员，也可以直接访问实例成员<br>
-实例方法中可以出现 this 关键字，静态方法中不可以出现 this 关键字</p>
+<h5 id="方法"><a href="#方法" class="headerlink" title="方法"></a>方法</h5><p>static修饰的成员方法叫&#x3D;&#x3D;静态方法&#x3D;&#x3D;，属于类，可以直接用类名访问，也可以用对象访问<br>&#x3D;&#x3D;类名.静态方法（推荐）&#x3D;&#x3D;<br>对象名.静态方法（不推荐）<br>无static修饰的成员方法叫&#x3D;&#x3D;实例方法&#x3D;&#x3D;（对象方法），属于对象只能用对象访问</p>
+<p>静态方法可以用来设计工具类<br>工具类中的方法都是&#x3D;&#x3D;静态方法&#x3D;&#x3D;，每个类方法都是用来完成一个功能<br>提高了代码的复用性；调用方便，提高了开发效率</p>
+<p>如果工具类使用实例方法，实例方法需要创建对象来调用，会&#x3D;&#x3D;浪费内存&#x3D;&#x3D;</p>
+<p>工具类不需要创建对象，&#x3D;&#x3D;建议将工具类的构造器私有化&#x3D;&#x3D;</p>
+<p>静态方法中可以直接访问静态成员，不可以直接访问实例成员<br>实例方法中既可以直接访问静态静态成员，也可以直接访问实例成员<br>实例方法中可以出现this关键字，静态方法中不可以出现this关键字</p>
 <hr>
-<h4 id="继承"><a class="anchor" href="#继承">#</a> 继承</h4>
-<h5 id="继承-2"><a class="anchor" href="#继承-2">#</a> 继承</h5>
-<p>java 中提供一个关键字 extends，用这个关键字可以让一个类与另一个类建立起父子关系</p>
+<h4 id="继承"><a href="#继承" class="headerlink" title="继承"></a>继承</h4><h5 id="继承-1"><a href="#继承-1" class="headerlink" title="继承"></a>继承</h5><p>java中提供一个关键字extends，用这个关键字可以让一个类与另一个类建立起父子关系</p>
 <figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">public</span> <span class="keyword">class</span> <span class="title class_">B</span> <span class="keyword">extends</span> <span class="title class_">A</span>&#123;</span><br><span class="line"></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-<p>子类能够继承父类的<mark>非私有成员</mark>（成员变量，成员方法）<br>
-子类的对象是由子类和父类共同完成的</p>
+<p>子类能够继承父类的&#x3D;&#x3D;非私有成员&#x3D;&#x3D;（成员变量，成员方法）<br>子类的对象是由子类和父类共同完成的</p>
 <hr>
-<h5 id="权限修饰符"><a class="anchor" href="#权限修饰符">#</a> 权限修饰符</h5>
-<p>用来限制类中的成员（成员变量，成员方法， 构造器）能够被访问的范围<br>
- private：只能本类<br>
-缺省：本类，同一个包中的类<br>
- protected：本类，同一个包中的类，子孙类中<br>
- public：任意位置</p>
-<p>修饰符			本类		同一个包中的类		子孙类		任意类<br>
- private			1                             0                                  0                      0<br>
- 缺省			     1                             1                                  0                      0	<br>
-protected                   1                             1                                  1                      0<br>
-public                          1                             1                                  1                      1</p>
+<h5 id="权限修饰符"><a href="#权限修饰符" class="headerlink" title="权限修饰符"></a>权限修饰符</h5><p>用来限制类中的成员（成员变量，成员方法， 构造器）能够被访问的范围<br>private：只能本类<br>缺省：本类，同一个包中的类<br>protected：本类，同一个包中的类，子孙类中<br>public：任意位置</p>
+<p>修饰符			本类		同一个包中的类		子孙类		任意类<br>private			1                             0                                  0                      0<br>缺省			     1                             1                                  0                      0	<br>protected                   1                             1                                  1                      0<br>public                          1                             1                                  1                      1  </p>
 <hr>
-<h5 id="继承的特点"><a class="anchor" href="#继承的特点">#</a> 继承的特点</h5>
-<p>在子类方法中访问其他成员（成员变量，成员方法），是依照<mark>就近原则</mark>的<br>
-先在子类局部范围内找，然后子类成员范围内找，然后父类成员范围内找，如果父类范围还没有找到则报错。</p>
-<p>如果出现重名的成员，会优先使用子类，可以通过 ==super.== 关键字指定访问父类成员。</p>
-<p>java 中类是单继承的，一个类只能继承一个直接父类。</p>
-<p>object 是所有类的祖宗类。</p>
+<h5 id="继承的特点"><a href="#继承的特点" class="headerlink" title="继承的特点"></a>继承的特点</h5><p>在子类方法中访问其他成员（成员变量，成员方法），是依照&#x3D;&#x3D;就近原则&#x3D;&#x3D;的<br>先在子类局部范围内找，然后子类成员范围内找，然后父类成员范围内找，如果父类范围还没有找到则报错。</p>
+<p>如果出现重名的成员，会优先使用子类，可以通过&#x3D;&#x3D;super.&#x3D;&#x3D;关键字指定访问父类成员。</p>
+<p>java中类是单继承的，一个类只能继承一个直接父类。</p>
+<p>object是所有类的祖宗类。</p>
 <hr>
-<h5 id="方法重写"><a class="anchor" href="#方法重写">#</a> 方法重写</h5>
-<p>当子类觉得父类中的某个方法不好用，或者无法满足自己的需求时，子类可以重写一个方法名称，参数列表一样的方法，去覆盖父类的这个方法。</p>
-<p>子类重写父类方法时，访问权限必须大于或等于父类该方法的权限<br>
-重写的方法返回值类型，必须与被重写方法的返回类型一样，或者范围更小<br>
-<mark>私有方法、静态方法</mark> 不能被重写，如果重写会报错。</p>
+<h5 id="方法重写"><a href="#方法重写" class="headerlink" title="方法重写"></a>方法重写</h5><p>当子类觉得父类中的某个方法不好用，或者无法满足自己的需求时，子类可以重写一个方法名称，参数列表一样的方法，去覆盖父类的这个方法。</p>
+<p>子类重写父类方法时，访问权限必须大于或等于父类该方法的权限<br>重写的方法返回值类型，必须与被重写方法的返回类型一样，或者范围更小<br>&#x3D;&#x3D;私有方法、静态方法&#x3D;&#x3D; 不能被重写，如果重写会报错。</p>
 <hr>
-<h5 id="子类构造器"><a class="anchor" href="#子类构造器">#</a> 子类构造器</h5>
-<p>子类的全部构造器都会先调用父类的构造器，再执行自己</p>
-<p>默认情况下，子类全部构造器的第一行代码都是 super ()，他会调用父类的无参数构造器。<br>
-如果父类没有无参构造器，则我们必须在子类构造器的第一行手写 super，指定去调用父类的有参数构造器。</p>
+<h5 id="子类构造器"><a href="#子类构造器" class="headerlink" title="子类构造器"></a>子类构造器</h5><p>子类的全部构造器都会先调用父类的构造器，再执行自己</p>
+<p>默认情况下，子类全部构造器的第一行代码都是super()，他会调用父类的无参数构造器。<br>如果父类没有无参构造器，则我们必须在子类构造器的第一行手写super，指定去调用父类的有参数构造器。</p>
 <figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">class</span> <span class="title class_">Teacher</span> <span class="keyword">extends</span> <span class="title class_">People</span>&#123;</span><br><span class="line">	a</span><br><span class="line">	<span class="keyword">public</span> <span class="title function_">Teacher</span><span class="params">(a, b, c)</span>&#123;</span><br><span class="line">		<span class="built_in">super</span>(b, c);</span><br><span class="line">		<span class="built_in">this</span>.a = a</span><br><span class="line">	&#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
 <hr>
-<h5 id="this调用兄弟构造器"><a class="anchor" href="#this调用兄弟构造器">#</a> this () 调用兄弟构造器</h5>
-<p>在任意类的构造器中，是可以通过 this (…) 去调用该类的其他构造器的。</p>
+<h5 id="this-调用兄弟构造器"><a href="#this-调用兄弟构造器" class="headerlink" title="this()调用兄弟构造器"></a>this()调用兄弟构造器</h5><p>在任意类的构造器中，是可以通过this(…)去调用该类的其他构造器的。</p>
 <figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">public</span> <span class="keyword">class</span> <span class="title class_">Student</span>&#123;</span><br><span class="line">	<span class="keyword">private</span> String schoolName;</span><br><span class="line">	<span class="keyword">private</span> String name;</span><br><span class="line">	</span><br><span class="line">	<span class="keyword">public</span> <span class="title function_">Student</span><span class="params">(String name)</span>&#123;</span><br><span class="line">		<span class="built_in">this</span>(name, <span class="string">&quot;hhh&quot;</span>);</span><br><span class="line">	&#125;</span><br><span class="line">	</span><br><span class="line">	<span class="keyword">public</span> <span class="title function_">Student</span><span class="params">(String name, String schoolName)</span>&#123;</span><br><span class="line">		<span class="built_in">this</span>.name = name;</span><br><span class="line">		<span class="built_in">this</span>.schoolName = schoolName;</span><br><span class="line">	&#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-<p>this (…), super (…) 都只能放在构造器的第一行，因此，有了 this (…) 就不能写 super (…) 了，反之亦然</p>
+<p>this(…), super(…)都只能放在构造器的第一行，因此，有了this(…)就不能写super(…)了，反之亦然</p>
 <hr>
-<h4 id="多态"><a class="anchor" href="#多态">#</a> 多态</h4>
-<h5 id="认识多态"><a class="anchor" href="#认识多态">#</a> 认识多态</h5>
-<p>多态是在继承 / 实现情况下的一种现象，表现为：对象多态，行为多态</p>
+<h4 id="多态"><a href="#多态" class="headerlink" title="多态"></a>多态</h4><h5 id="认识多态"><a href="#认识多态" class="headerlink" title="认识多态"></a>认识多态</h5><p>多态是在继承&#x2F;实现情况下的一种现象，表现为：对象多态，行为多态</p>
 <figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line"><span class="type">People</span> <span class="variable">p1</span> <span class="operator">=</span> <span class="keyword">new</span> <span class="title class_">Student</span>();</span><br><span class="line">p1.run();</span><br><span class="line"></span><br><span class="line"><span class="type">People</span> <span class="variable">p2</span> <span class="operator">=</span> <span class="keyword">new</span> <span class="title class_">Teacher</span>();</span><br><span class="line">p2.run();</span><br></pre></td></tr></table></figure>
-<p>多态的<mark>前提</mark>：有继承 / 实现关系；存在父类引用子类对象；<mark>存在方法重写</mark></p>
-<p>多态是<mark>对象，行为的多态</mark>，java 中的 == 属性（成员变量）== 不谈多态。</p>
+<p>多态的&#x3D;&#x3D;前提&#x3D;&#x3D;：有继承&#x2F;实现关系；存在父类引用子类对象；&#x3D;&#x3D;存在方法重写&#x3D;&#x3D;</p>
+<p>多态是&#x3D;&#x3D;对象，行为的多态&#x3D;&#x3D;，java中的&#x3D;&#x3D;属性（成员变量）&#x3D;&#x3D;不谈多态。</p>
 <hr>
-<h5 id="多态的好处"><a class="anchor" href="#多态的好处">#</a> 多态的好处</h5>
-<p>在多态形式下，右边对象是解耦合的，更便于扩展和维护</p>
+<h5 id="多态的好处"><a href="#多态的好处" class="headerlink" title="多态的好处"></a>多态的好处</h5><p>在多态形式下，右边对象是解耦合的，更便于扩展和维护</p>
 <figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="type">People</span> <span class="variable">p1</span> <span class="operator">=</span> <span class="keyword">new</span> <span class="title class_">Student</span>();</span><br><span class="line">p1.run();</span><br></pre></td></tr></table></figure>
 <p>定义方法时，使用父类类型的形参，可以接收一切子类对象，扩展性更强，更便利。</p>
-<p>多态下<mark>不能使用子类的独有功能</mark></p>
+<p>多态下&#x3D;&#x3D;不能使用子类的独有功能&#x3D;&#x3D;</p>
 <hr>
-<h5 id="多态下的类型转换"><a class="anchor" href="#多态下的类型转换">#</a> 多态下的类型转换</h5>
-<p>自动类型转换：父类 变量名 = new 子类 ()；</p>
+<h5 id="多态下的类型转换"><a href="#多态下的类型转换" class="headerlink" title="多态下的类型转换"></a>多态下的类型转换</h5><p>自动类型转换：父类 变量名 &#x3D; new 子类()；</p>
 <figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="type">People</span> <span class="variable">p</span> <span class="operator">=</span> <span class="keyword">new</span> <span class="title class_">Teacher</span>();</span><br></pre></td></tr></table></figure>
-<p>强制类型转换：子类 变量名 = (子类) 父类变量</p>
+
+<p>强制类型转换：子类 变量名 &#x3D; (子类)父类变量</p>
 <figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="type">Teacher</span> <span class="variable">t</span> <span class="operator">=</span> (Teacher)p;</span><br></pre></td></tr></table></figure>
-<p>存在继承 / 实现关系就可以在编译阶段进行强制类型转换，编译阶段不会报错。<br>
-运行时，如果发现对象的真实类型与强制转换后的类型不同，就会报<mark>类型准换异常</mark> (ClassCastException) 的错误出来</p>
+
+<p>存在继承&#x2F;实现关系就可以在编译阶段进行强制类型转换，编译阶段不会报错。<br>运行时，如果发现对象的真实类型与强制转换后的类型不同，就会报&#x3D;&#x3D;类型准换异常&#x3D;&#x3D; (ClassCastException)的错误出来</p>
 <figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="type">People</span> <span class="variable">p</span> <span class="operator">=</span> <span class="keyword">new</span> <span class="title class_">Teacher</span>();</span><br><span class="line"><span class="type">Student</span> <span class="variable">s</span> <span class="operator">=</span> (Student) p; <span class="comment">// java.lang.ClassCastException</span></span><br></pre></td></tr></table></figure>
-<p><mark>强转前</mark>，java 建议：使用<mark> instanceof</mark> 关键字，判断当前对象的真实类型，再强制转换。</p>
+
+<p>&#x3D;&#x3D;强转前&#x3D;&#x3D;，java建议：使用&#x3D;&#x3D;instanceof&#x3D;&#x3D;关键字，判断当前对象的真实类型，再强制转换。</p>
 <figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">p <span class="keyword">instanceof</span> Student</span><br></pre></td></tr></table></figure>
+
 <hr>
-<h4 id="final"><a class="anchor" href="#final">#</a> final</h4>
-<h5 id="认识final"><a class="anchor" href="#认识final">#</a> 认识 final</h5>
-<p>final 关键字是最终，可以修饰：类、方法、变量<br>
-修饰类：该类被称为最终类，特点是不能被继承了<br>
-修饰方法：该方法被称为最终方法，特点是不能被重写了<br>
-修饰变量：该变量有且仅有被赋值一次。</p>
-<p>final 修饰基本类型的变量，变量存储的<mark>数据</mark>不能被改变<br>
- final 修饰的引用类型的变量，变量存储的<mark>地址</mark> 不能被改变，但地址指向的对象内容可以改变</p>
-<p><mark>static final</mark> 修饰的成员变量被称为常量<br>
-作用：常用于记录系统的配置信息</p>
+<h4 id="final"><a href="#final" class="headerlink" title="final"></a>final</h4><h5 id="认识final"><a href="#认识final" class="headerlink" title="认识final"></a>认识final</h5><p>final关键字是最终，可以修饰：类、方法、变量<br>修饰类：该类被称为最终类，特点是不能被继承了<br>修饰方法：该方法被称为最终方法，特点是不能被重写了<br>修饰变量：该变量有且仅有被赋值一次。</p>
+<p>final修饰基本类型的变量，变量存储的&#x3D;&#x3D;数据&#x3D;&#x3D;不能被改变<br>final修饰的引用类型的变量，变量存储的&#x3D;&#x3D;地址&#x3D;&#x3D; 不能被改变，但地址指向的对象内容可以改变</p>
+<p>&#x3D;&#x3D;static final&#x3D;&#x3D;修饰的成员变量被称为常量<br>作用：常用于记录系统的配置信息</p>
 <figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">public</span> <span class="keyword">class</span> <span class="title class_">Constant</span>&#123;</span><br><span class="line">	<span class="keyword">public</span> <span class="keyword">static</span> <span class="keyword">final</span> <span class="type">String</span> <span class="variable">SCHOOL_NAME</span> <span class="operator">=</span> <span class="string">&quot;船只教育&quot;</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-<p><mark>变量名的命名规范：建议用大写英文单词，多个单词间使用下划线连接起来</mark></p>
-<p>使用常量记录系统配置信息的优势：代码可读性好，可维护性也好。<br>
-程序编译后，常量会被” 宏替换 “：出现常量的地方全部会被替换成其字面量。可以保证使用常量和直接使用字面量的性能是一样的。</p>
+<p>&#x3D;&#x3D;变量名的命名规范：建议用大写英文单词，多个单词间使用下划线连接起来&#x3D;&#x3D;</p>
+<p>使用常量记录系统配置信息的优势：代码可读性好，可维护性也好。<br>程序编译后，常量会被”宏替换“：出现常量的地方全部会被替换成其字面量。可以保证使用常量和直接使用字面量的性能是一样的。</p>
 <hr>
-<h5 id="单例类设计模式"><a class="anchor" href="#单例类设计模式">#</a> 单例类（设计模式）</h5>
-<p>具体问题的最优解决方案，确保一个类只能创建一个对象。</p>
+<h5 id="单例类（设计模式）"><a href="#单例类（设计模式）" class="headerlink" title="单例类（设计模式）"></a>单例类（设计模式）</h5><p>具体问题的最优解决方案，确保一个类只能创建一个对象。</p>
 <p>单例：把类的构造器私有，定义一个静态变量存储类的一个对象，提供一个静态方法返回对象。</p>
 <p>在任务管理器对象时，获取运行时对象。</p>
 <p>饿汉式单例：拿对象前，对象早就创建好了</p>
 <figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">public</span> <span class="keyword">class</span> <span class="title class_">A</span>&#123;</span><br><span class="line">	<span class="keyword">private</span> <span class="keyword">static</span> <span class="type">A</span> <span class="variable">a</span> <span class="operator">=</span> <span class="keyword">new</span> <span class="title class_">A</span>();</span><br><span class="line">	<span class="keyword">private</span> <span class="title function_">A</span><span class="params">()</span>&#123;</span><br><span class="line">	&#125;</span><br><span class="line">	</span><br><span class="line">	<span class="keyword">public</span> <span class="keyword">static</span> A <span class="title function_">getObject</span><span class="params">()</span>&#123;</span><br><span class="line">		<span class="keyword">return</span> a;</span><br><span class="line">	&#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
 <p>懒汉式单例：拿对象时，才开始创建对象。</p>
 <figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">public</span> <span class="keyword">class</span> <span class="title class_">B</span>&#123;</span><br><span class="line">	<span class="keyword">private</span> <span class="keyword">static</span> B b;</span><br><span class="line">	<span class="keyword">private</span> <span class="title function_">B</span><span class="params">()</span>&#123;</span><br><span class="line">	&#125;</span><br><span class="line">	</span><br><span class="line">	<span class="keyword">public</span> <span class="keyword">static</span> B <span class="title function_">getObject</span><span class="params">()</span>&#123;</span><br><span class="line">		<span class="keyword">if</span>(b == <span class="literal">null</span>)&#123;</span><br><span class="line">			b = <span class="keyword">new</span> <span class="title class_">B</span>();</span><br><span class="line">		&#125;</span><br><span class="line">		<span class="keyword">return</span> b;</span><br><span class="line">	&#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
 <hr>
-<h5 id="枚举类"><a class="anchor" href="#枚举类">#</a> 枚举类</h5>
-<figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">public</span> <span class="keyword">enum</span> <span class="title class_">A</span>&#123;</span><br><span class="line">	X, Y, Z;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-<p>枚举类都是最终类，不可以被继承，枚举类都是继承 java.lang.Enum 类的<br>
-枚举类的第一行只能罗列一些名称，这些名称都是常量，并且每个常量会记住枚举类的一个对象<br>
-枚举类的构造器都是私有的，因此，枚举类对外不能创建对象。<br>
-编译器对枚举类新增了几个方法。</p>
+<h5 id="枚举类"><a href="#枚举类" class="headerlink" title="枚举类"></a>枚举类</h5><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">public</span> <span class="keyword">enum</span> <span class="title class_">A</span>&#123;</span><br><span class="line">	X, Y, Z;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<p>枚举类都是最终类，不可以被继承，枚举类都是继承java.lang.Enum类的<br>枚举类的第一行只能罗列一些名称，这些名称都是常量，并且每个常量会记住枚举类的一个对象<br>枚举类的构造器都是私有的，因此，枚举类对外不能创建对象。<br>编译器对枚举类新增了几个方法。</p>
 <hr>
-<h5 id="枚举类的常见应用场景"><a class="anchor" href="#枚举类的常见应用场景">#</a> 枚举类的常见应用场景</h5>
-<p>枚举类适合做信息分类和标致</p>
+<h5 id="枚举类的常见应用场景"><a href="#枚举类的常见应用场景" class="headerlink" title="枚举类的常见应用场景"></a>枚举类的常见应用场景</h5><p>枚举类适合做信息分类和标致</p>
 <hr>
-<h5 id="抽象类"><a class="anchor" href="#抽象类">#</a> 抽象类</h5>
-<p>关键字：<mark>abstract</mark>，可以用来修饰类，成员方法<br>
- abstract 修饰类，这个类就是抽象类<br>
- abstract 修饰方法，这个方法就是抽象方法</p>
+<h5 id="抽象类"><a href="#抽象类" class="headerlink" title="抽象类"></a>抽象类</h5><p>关键字：&#x3D;&#x3D;abstract&#x3D;&#x3D;，可以用来修饰类，成员方法<br>abstract修饰类，这个类就是抽象类<br>abstract修饰方法，这个方法就是抽象方法</p>
 <figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">public</span> <span class="keyword">abstract</span> class 类名&#123;</span><br><span class="line">	<span class="keyword">public</span> <span class="keyword">abstract</span> 返回值 方法名();</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-<p>抽象类中不一定要有抽象方法，有抽象方法的类必须是抽象类<br>
-类有的成员：成员变量，方法，构造器，抽象类都可以有<br>
-抽象类的<mark>主要特点</mark>：抽象类不能创建对象，仅作为一种特殊的父类，让子类继承并实现<br>
-一个类继承抽象类，必须重写完抽象类的全部抽象方法，否则这个类也必须定义成抽象类。</p>
+
+<p>抽象类中不一定要有抽象方法，有抽象方法的类必须是抽象类<br>类有的成员：成员变量，方法，构造器，抽象类都可以有<br>抽象类的&#x3D;&#x3D;主要特点&#x3D;&#x3D;：抽象类不能创建对象，仅作为一种特殊的父类，让子类继承并实现<br>一个类继承抽象类，必须重写完抽象类的全部抽象方法，否则这个类也必须定义成抽象类。</p>
 <hr>
-<h5 id="抽象类的好处"><a class="anchor" href="#抽象类的好处">#</a> 抽象类的好处</h5>
-<p>父类知道每个子类要做的某个行为，但每个子类要做的情况不一样，父类就定义成抽象方法，交给子类去重写实现，设计这样的抽象类，就是为了更好的支持多态。</p>
+<h5 id="抽象类的好处"><a href="#抽象类的好处" class="headerlink" title="抽象类的好处"></a>抽象类的好处</h5><p>父类知道每个子类要做的某个行为，但每个子类要做的情况不一样，父类就定义成抽象方法，交给子类去重写实现，设计这样的抽象类，就是为了更好的支持多态。</p>
 <hr>
-<h5 id="模板方法"><a class="anchor" href="#模板方法">#</a> 模板方法</h5>
-<p>提供一个方法作为完成某类功能的模板，模板方法封装了每个实现步骤，但允许子类提供特定步骤的实现<br>
-模板方法设计某事可以：提高代码的复用，并简化子类设计</p>
-<p>写法：<br>
-1、定义一个抽象类<br>
- 2、在里面定义 2 个方法<br>
-一个是<mark>模板方法</mark>，把共同的实现步骤放里面<br>
-一个是抽象方法：不确定的步骤，交给<mark>具体的子类实现</mark></p>
-<p>模板方法是给子类直接使用的，不能被子类重写，建议使用<mark> final 关键字</mark>修饰模板方法<br>
-一旦子类重写了模板方法，模板方法就失效了。</p>
+<h5 id="模板方法"><a href="#模板方法" class="headerlink" title="模板方法"></a>模板方法</h5><p>提供一个方法作为完成某类功能的模板，模板方法封装了每个实现步骤，但允许子类提供特定步骤的实现<br>模板方法设计某事可以：提高代码的复用，并简化子类设计</p>
+<p>写法：<br>1、定义一个抽象类<br>2、在里面定义2个方法<br>一个是&#x3D;&#x3D;模板方法&#x3D;&#x3D;，把共同的实现步骤放里面<br>一个是抽象方法：不确定的步骤，交给&#x3D;&#x3D;具体的子类实现&#x3D;&#x3D;</p>
+<p>模板方法是给子类直接使用的，不能被子类重写，建议使用&#x3D;&#x3D;final关键字&#x3D;&#x3D;修饰模板方法<br>一旦子类重写了模板方法，模板方法就失效了。</p>
 <hr>
-<h4 id="接口"><a class="anchor" href="#接口">#</a> 接口</h4>
-<h5 id="接口概述"><a class="anchor" href="#接口概述">#</a> 接口概述</h5>
-<p>java 提供了一个关键字 interface 定义出接口</p>
+<h4 id="接口"><a href="#接口" class="headerlink" title="接口"></a>接口</h4><h5 id="接口概述"><a href="#接口概述" class="headerlink" title="接口概述"></a>接口概述</h5><p>java提供了一个关键字interface定义出接口</p>
 <figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">public</span> interface 接口名&#123;</span><br><span class="line">	<span class="comment">// 成员变量（常量）</span></span><br><span class="line">	<span class="comment">// 成员方法（抽象方法）</span></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-<p>注意：<mark>接口不能创建对象</mark><br>
-接口是用来被<mark>实现的</mark>，实现接口的类型称为<mark>实现类</mark>，一个类可以实现多个接口</p>
+<p>注意：&#x3D;&#x3D;接口不能创建对象&#x3D;&#x3D;<br>接口是用来被&#x3D;&#x3D;实现的&#x3D;&#x3D;，实现接口的类型称为&#x3D;&#x3D;实现类&#x3D;&#x3D;，一个类可以实现多个接口</p>
 <figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">修饰符 class 实现类名 implements 接口<span class="number">1</span>、接口<span class="number">2</span>、接口<span class="number">3.</span>....&#123;</span><br><span class="line">	<span class="comment">// 实现类实现多个接口，必须重写完全部接口的全部抽象方法，否则实现类需要定义为抽象类</span></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
 <hr>
-<h5 id="接口好处"><a class="anchor" href="#接口好处">#</a> 接口好处</h5>
-<p>弥补了类单继承的不足，一个类同时可以实现多个接口，使类的角色更多，功能更强大<br>
-让程序可以面向接口编程，更利于程序的解耦合。</p>
+<h5 id="接口好处"><a href="#接口好处" class="headerlink" title="接口好处"></a>接口好处</h5><p>弥补了类单继承的不足，一个类同时可以实现多个接口，使类的角色更多，功能更强大<br>让程序可以面向接口编程，更利于程序的解耦合。</p>
 <hr>
-<h5 id="接口新增的三种方法"><a class="anchor" href="#接口新增的三种方法">#</a> 接口新增的三种方法</h5>
-<figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">public</span> <span class="keyword">interface</span> <span class="title class_">A</span>&#123;</span><br><span class="line">	<span class="comment">// 默认方法（实例方法）：使用default修饰，默认会被加public修饰</span></span><br><span class="line">	<span class="comment">// 只能使用接口的实现类对象调用</span></span><br><span class="line">	<span class="keyword">default</span> <span class="keyword">void</span> <span class="title function_">test1</span><span class="params">()</span>&#123;</span><br><span class="line">		</span><br><span class="line">	&#125;</span><br><span class="line">	<span class="comment">// 私有方法：必须用private修饰</span></span><br><span class="line">	<span class="comment">// 接口内部调用</span></span><br><span class="line">	<span class="keyword">private</span> <span class="keyword">void</span> <span class="title function_">test2</span><span class="params">()</span>&#123;</span><br><span class="line">	</span><br><span class="line">	&#125;</span><br><span class="line">	<span class="comment">// 类方法，使用static修饰，默认public</span></span><br><span class="line">	<span class="comment">// 只能用接口名调用</span></span><br><span class="line">	<span class="keyword">static</span> <span class="keyword">void</span> <span class="title function_">test3</span><span class="params">()</span>&#123;</span><br><span class="line">	</span><br><span class="line">	&#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<h5 id="接口新增的三种方法"><a href="#接口新增的三种方法" class="headerlink" title="接口新增的三种方法"></a>接口新增的三种方法</h5><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">public</span> <span class="keyword">interface</span> <span class="title class_">A</span>&#123;</span><br><span class="line">	<span class="comment">// 默认方法（实例方法）：使用default修饰，默认会被加public修饰</span></span><br><span class="line">	<span class="comment">// 只能使用接口的实现类对象调用</span></span><br><span class="line">	<span class="keyword">default</span> <span class="keyword">void</span> <span class="title function_">test1</span><span class="params">()</span>&#123;</span><br><span class="line">		</span><br><span class="line">	&#125;</span><br><span class="line">	<span class="comment">// 私有方法：必须用private修饰</span></span><br><span class="line">	<span class="comment">// 接口内部调用</span></span><br><span class="line">	<span class="keyword">private</span> <span class="keyword">void</span> <span class="title function_">test2</span><span class="params">()</span>&#123;</span><br><span class="line">	</span><br><span class="line">	&#125;</span><br><span class="line">	<span class="comment">// 类方法，使用static修饰，默认public</span></span><br><span class="line">	<span class="comment">// 只能用接口名调用</span></span><br><span class="line">	<span class="keyword">static</span> <span class="keyword">void</span> <span class="title function_">test3</span><span class="params">()</span>&#123;</span><br><span class="line">	</span><br><span class="line">	&#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
 <hr>
-<h5 id="接口的注意事项"><a class="anchor" href="#接口的注意事项">#</a> 接口的注意事项</h5>
-<p>1、接口与接口可以多继承：一个接口可以继承多个接口<br>
- 2、一个接口继承多个接口，如果多个接口中存在方法签名冲突、则此时不支持多继承，也不支持多实现。<br>
-3、一个类继承了父类，又同时实现了接口，如果父亲中和接口中有同名的默认方法，实现类会先用父类的<br>
- 4、一个类实现了多个接口，如果多个接口中存在同名的默认方法，可以不冲突，这个类方法重写即可。</p>
+<h5 id="接口的注意事项"><a href="#接口的注意事项" class="headerlink" title="接口的注意事项"></a>接口的注意事项</h5><p>1、接口与接口可以多继承：一个接口可以继承多个接口<br>2、一个接口继承多个接口，如果多个接口中存在方法签名冲突、则此时不支持多继承，也不支持多实现。<br>3、一个类继承了父类，又同时实现了接口，如果父亲中和接口中有同名的默认方法，实现类会先用父类的<br>4、一个类实现了多个接口，如果多个接口中存在同名的默认方法，可以不冲突，这个类方法重写即可。</p>
 <hr>
-<h5 id="接口与抽象类"><a class="anchor" href="#接口与抽象类">#</a> 接口与抽象类</h5>
-<p>相同点：<br>
-1、都是抽象形式，都可以有抽象方法，都不能创建对象。<br>
-2、都是派生子类形式，抽象类是被子类继承使用，接口是被实现类实现。<br>
-3、一个类继承抽象类，或者实现接口，都必须重写他们的抽象方法，否则自己称为抽象类或者报错。<br>
-4、都支持多态，能够实现解耦合<br>
-不同点：<br>
-1、抽象类中可以定义类的全部普通成员，接口只能定义常量，抽象方法（JDK8 新增的三种方法）<br>
-2、抽象类只能被类单继承，接口可以被类多实现。<br>
-3、一个类继承抽象类就不能继承其他类，一个接口实现了接口还可以继承其他类或者实现其他接口<br>
- 4、抽象类体现模板思想，更利于做父类，实现代码的复用<br>
- 5、接口更适合做功能的解耦合，解耦合性更灵活。</p>
-<h4 id="类中的成分"><a class="anchor" href="#类中的成分">#</a> 类中的成分</h4>
-<h5 id="代码块"><a class="anchor" href="#代码块">#</a> 代码块</h5>
-<p>代码块是类的 5 大成分之一（成员变量，构造器，方法，<mark>代码块</mark>，内部类）<br>
-代码块分为两种：<br>
-静态代码块：<br>
-格式：static {}<br>
- 特点：类加载时自动执行，由于类只会加载一次，所以静态代码块也只会执行一次。<br>
-作用：完成类的初始化，例如：对静态变量的初始化赋值。<br>
-实例代码块：<br>
-格式：{}<br>
- 特点：每次创建对象时，执行实例代码块，并在构造器前执行。<br>
-作用：和构造器一样，都是用来完成对象的初始化，例如：对实例变量进行初始化赋值</p>
+<h5 id="接口与抽象类"><a href="#接口与抽象类" class="headerlink" title="接口与抽象类"></a>接口与抽象类</h5><p>相同点：<br>1、都是抽象形式，都可以有抽象方法，都不能创建对象。<br>2、都是派生子类形式，抽象类是被子类继承使用，接口是被实现类实现。<br>3、一个类继承抽象类，或者实现接口，都必须重写他们的抽象方法，否则自己称为抽象类或者报错。<br>4、都支持多态，能够实现解耦合<br>不同点：<br>1、抽象类中可以定义类的全部普通成员，接口只能定义常量，抽象方法（JDK8新增的三种方法）<br>2、抽象类只能被类单继承，接口可以被类多实现。<br>3、一个类继承抽象类就不能继承其他类，一个接口实现了接口还可以继承其他类或者实现其他接口<br>4、抽象类体现模板思想，更利于做父类，实现代码的复用<br>5、接口更适合做功能的解耦合，解耦合性更灵活。</p>
+<h4 id="类中的成分"><a href="#类中的成分" class="headerlink" title="类中的成分"></a>类中的成分</h4><h5 id="代码块"><a href="#代码块" class="headerlink" title="代码块"></a>代码块</h5><p>代码块是类的5大成分之一（成员变量，构造器，方法，&#x3D;&#x3D;代码块&#x3D;&#x3D;，内部类）<br>代码块分为两种：<br>静态代码块：<br>	格式：static{}<br>	特点：类加载时自动执行，由于类只会加载一次，所以静态代码块也只会执行一次。<br>	作用：完成类的初始化，例如：对静态变量的初始化赋值。<br>实例代码块：<br>	格式：{}<br>	特点：每次创建对象时，执行实例代码块，并在构造器前执行。<br>	作用：和构造器一样，都是用来完成对象的初始化，例如：对实例变量进行初始化赋值</p>
 <hr>
-<h5 id="内部类"><a class="anchor" href="#内部类">#</a> 内部类</h5>
-<p><mark>成员内部类</mark><br>
-就是类中的一个普通成员，类似前面学过的成员变量，成员方法。</p>
+<h5 id="内部类"><a href="#内部类" class="headerlink" title="内部类"></a>内部类</h5><p>&#x3D;&#x3D;成员内部类&#x3D;&#x3D;<br>就是类中的一个普通成员，类似前面学过的成员变量，成员方法。</p>
 <figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">public</span> <span class="keyword">class</span> <span class="title class_">Outer</span>&#123;</span><br><span class="line">	<span class="keyword">public</span> <span class="keyword">class</span> <span class="title class_">Inner</span>&#123;</span><br><span class="line">	</span><br><span class="line">	&#125;</span><br><span class="line">&#125;</span><br><span class="line"><span class="comment">// 创建对象的格式</span></span><br><span class="line">外部类名.内部类名 对象名 = <span class="keyword">new</span> 外部类(...).new 内部类(...);</span><br><span class="line">Outer.Inner in  <span class="keyword">new</span> <span class="title class_">Outer</span>().<span class="keyword">new</span> <span class="title class_">Inner</span>();</span><br><span class="line"></span><br></pre></td></tr></table></figure>
-<p>成员内部类中访问其他成员的特点：<br>
-1、成员内部类中可以直接访问外部类的实例成员，静态成员。<br>
-2、成员内部类的实例方法中，可以直接拿到当前外部类对象，格式是：外部类名.this。</p>
-<p><mark>静态内部类</mark><br>
-有 static 修饰的内部类，属于外部类自己特有</p>
+<p>成员内部类中访问其他成员的特点：<br>1、成员内部类中可以直接访问外部类的实例成员，静态成员。<br>2、成员内部类的实例方法中，可以直接拿到当前外部类对象，格式是：外部类名.this。</p>
+<p>&#x3D;&#x3D;静态内部类&#x3D;&#x3D;<br>有static修饰的内部类，属于外部类自己特有</p>
 <figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">public</span> <span class="keyword">class</span> <span class="title class_">Outer</span>&#123;</span><br><span class="line">	<span class="keyword">public</span> <span class="keyword">static</span> <span class="keyword">class</span> <span class="title class_">Inner</span>&#123;</span><br><span class="line">	</span><br><span class="line">	&#125;</span><br><span class="line">&#125;</span><br><span class="line"><span class="comment">// 创建</span></span><br><span class="line">外部类.内部类名.对象名 = <span class="keyword">new</span> 外部类.内部类(...);</span><br><span class="line">Outer.Inner.in = <span class="keyword">new</span> <span class="title class_">Outer</span>.Inner();</span><br></pre></td></tr></table></figure>
-<p><mark>匿名内部类</mark><br>
-是一种特殊的局部内部类<br>
-所谓匿名：指的是程序员不需要为这个类声明名字，默认有个隐藏的名字。</p>
+
+<p>&#x3D;&#x3D;匿名内部类&#x3D;&#x3D;<br>是一种特殊的局部内部类<br>所谓匿名：指的是程序员不需要为这个类声明名字，默认有个隐藏的名字。</p>
 <figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">new</span> 类或接口(参数值...)&#123;</span><br><span class="line">	类体(一般是方法重写);</span><br><span class="line">&#125;;</span><br><span class="line"></span><br><span class="line"><span class="keyword">new</span> <span class="title class_">Animal</span>()&#123;</span><br><span class="line">	<span class="meta">@Override</span></span><br><span class="line">	<span class="keyword">public</span> <span class="keyword">void</span> <span class="title function_">cry</span><span class="params">()</span>&#123;</span><br><span class="line">	&#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-<p>特点：匿名内部类本质就是一个子类，并会立即创建出一个子类对象。<br>
-作用：用于更方便的创建子类对象。</p>
+<p>特点：匿名内部类本质就是一个子类，并会立即创建出一个子类对象。<br>作用：用于更方便的创建子类对象。</p>
 <hr>
-<h5 id="lambda表达式"><a class="anchor" href="#lambda表达式">#</a> lambda 表达式</h5>
-<p>可以用于替代某些匿名内部类对象，从而让程序更简洁，可读性更好。</p>
+<h5 id="lambda表达式"><a href="#lambda表达式" class="headerlink" title="lambda表达式"></a>lambda表达式</h5><p>可以用于替代某些匿名内部类对象，从而让程序更简洁，可读性更好。</p>
 <figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">(被重写方法的形参列表) -&gt; &#123;</span><br><span class="line">	被重写方法的代码体;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-<p><mark>注意</mark>：lambda 表达式只能替代函数式接口的匿名内部类<br>
-函数式接口：有且仅有一个抽象方法的接口，注意大部分函数式接口上面都会有一个 @FunctionalInterface 的注释，用来注解用于约束当前接口必须是函数式接口。</p>
-<p>lambda 表达式的省略规则：<br>
-1、参数类型全部可以省略不写<br>
- 2、如果只有一个参数，参数类型省略的同时 () 也可以省略，但多个参数不能省略 ()<br>
- 3、如果 lambda 表达式中只有一行代码，大括号可以不写，同时要省略分号 &quot;;&quot; 如果这行代码是 return 语句，也必须去掉 return。</p>
+<p>&#x3D;&#x3D;注意&#x3D;&#x3D;：lambda表达式只能替代函数式接口的匿名内部类<br>函数式接口：有且仅有一个抽象方法的接口，注意大部分函数式接口上面都会有一个@FunctionalInterface的注释，用来注解用于约束当前接口必须是函数式接口。</p>
+<p>lambda表达式的省略规则：<br>1、参数类型全部可以省略不写<br>2、如果只有一个参数，参数类型省略的同时()也可以省略，但多个参数不能省略()<br>3、如果lambda表达式中只有一行代码，大括号可以不写，同时要省略分号”;”如果这行代码是return语句，也必须去掉return。</p>
 <hr>
-<h4 id="方法引用"><a class="anchor" href="#方法引用">#</a> 方法引用</h4>
-<h5 id="静态方法引用"><a class="anchor" href="#静态方法引用">#</a> 静态方法引用</h5>
-<figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">类名::静态方法</span><br></pre></td></tr></table></figure>
-<p>使用场景：如果某个 Lambda 表达式只有一个静态方法，并且”-&gt;“前后参数的形式一致，就可以使用静态方法引用。</p>
+<h4 id="方法引用"><a href="#方法引用" class="headerlink" title="方法引用"></a>方法引用</h4><h5 id="静态方法引用"><a href="#静态方法引用" class="headerlink" title="静态方法引用"></a>静态方法引用</h5><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">类名::静态方法</span><br></pre></td></tr></table></figure>
+<p>使用场景：如果某个Lambda表达式只有一个静态方法，并且”-&gt;“前后参数的形式一致，就可以使用静态方法引用。</p>
 <hr>
-<h5 id="实例方法引用"><a class="anchor" href="#实例方法引用">#</a> 实例方法引用</h5>
-<figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">对象名::实例方法</span><br></pre></td></tr></table></figure>
-<p>使用场景：如果某个 Lambda 表达式里只是通过对象名称调用一个实例方法，并且 &quot;-&gt;&quot; 前后参数的形式一致，就可以使用实例方法引用。</p>
+<h5 id="实例方法引用"><a href="#实例方法引用" class="headerlink" title="实例方法引用"></a>实例方法引用</h5><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">对象名::实例方法</span><br></pre></td></tr></table></figure>
+<p>使用场景：如果某个Lambda表达式里只是通过对象名称调用一个实例方法，并且”-&gt;”前后参数的形式一致，就可以使用实例方法引用。</p>
 <hr>
-<h5 id="特定类的方法应用"><a class="anchor" href="#特定类的方法应用">#</a> 特定类的方法应用</h5>
-<figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">特定类的名称::方法</span><br></pre></td></tr></table></figure>
-<p>使用场景：如果某个 Lambda 表达式只是调用一个特定类型的实例方法，并且前面参数列表中的<mark>第一个参数</mark>是作为方法的主调，后面的所有参数都是作为该实例方法的入参的，则此时就可以使用特定类型的方法引用。</p>
+<h5 id="特定类的方法应用"><a href="#特定类的方法应用" class="headerlink" title="特定类的方法应用"></a>特定类的方法应用</h5><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">特定类的名称::方法</span><br></pre></td></tr></table></figure>
+<p>使用场景：如果某个Lambda表达式只是调用一个特定类型的实例方法，并且前面参数列表中的&#x3D;&#x3D;第一个参数&#x3D;&#x3D;是作为方法的主调，后面的所有参数都是作为该实例方法的入参的，则此时就可以使用特定类型的方法引用。</p>
 <hr>
-<h5 id="构造器引用"><a class="anchor" href="#构造器引用">#</a> 构造器引用</h5>
-<figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">类名::<span class="keyword">new</span></span><br></pre></td></tr></table></figure>
-<p>使用场景：如果某个 Lambda 表达式里只是在创建对象，并且”-&gt;“前后参数情况一致，就可以使用构造器引用。</p>
+<h5 id="构造器引用"><a href="#构造器引用" class="headerlink" title="构造器引用"></a>构造器引用</h5><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">类名::<span class="keyword">new</span></span><br></pre></td></tr></table></figure>
+<p>使用场景：如果某个Lambda表达式里只是在创建对象，并且”-&gt;“前后参数情况一致，就可以使用构造器引用。</p>
 <hr>
-<h3 id="常用api"><a class="anchor" href="#常用api">#</a> 常用 API</h3>
-<h4 id="string-创建字符串对象的方式"><a class="anchor" href="#string-创建字符串对象的方式">#</a> String 创建字符串对象的方式</h4>
-<ul>
-<li>方式一: Java 程序中的所有字符串文字 (例如 &quot;abc&quot;) 都为此类的对象.</li>
+<h3 id="常用API"><a href="#常用API" class="headerlink" title="常用API"></a>常用API</h3><h4 id="String-创建字符串对象的方式"><a href="#String-创建字符串对象的方式" class="headerlink" title="String 创建字符串对象的方式"></a>String 创建字符串对象的方式</h4><ul>
+<li>方式一: Java程序中的所有字符串文字(例如”abc”)都为此类的对象.</li>
 </ul>
 <figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="type">String</span> <span class="variable">name</span> <span class="operator">=</span> <span class="string">&quot;&quot;</span>;</span><br></pre></td></tr></table></figure>
+
 <ul>
-<li>方式二：调用 String 类的构造器初始化字符串对象</li>
+<li>方式二: 调用String类的构造器初始化字符串对象</li>
 </ul>
-<h4 id="string-提供的常用方法"><a class="anchor" href="#string-提供的常用方法">#</a> String 提供的常用方法</h4>
-<figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">// 返回字符串的长度</span></span><br><span class="line"><span class="keyword">public</span> <span class="type">int</span> <span class="title function_">length</span><span class="params">()</span></span><br><span class="line"></span><br><span class="line"><span class="comment">// 获取某个索引的字符并返回</span></span><br><span class="line"><span class="keyword">public</span> <span class="type">char</span> <span class="title function_">charAt</span><span class="params">(<span class="type">int</span> index)</span></span><br><span class="line"></span><br><span class="line"><span class="comment">// 将当前字符串转换成字符数组返回</span></span><br><span class="line"><span class="keyword">public</span> <span class="type">char</span>[] toCharArray()</span><br><span class="line"></span><br><span class="line"><span class="comment">// 判断当前字符串与另一个字符串的内容一样，一样返回true</span></span><br><span class="line"><span class="keyword">public</span> <span class="type">boolean</span> <span class="title function_">equals</span><span class="params">(Object anObject)</span></span><br><span class="line"></span><br><span class="line"><span class="comment">// 判断当前字符串与另一个字符串的内容一样，一样返回true(忽略大小写)</span></span><br><span class="line"><span class="keyword">public</span> <span class="type">boolean</span> <span class="title function_">equalsIgnoreCase</span><span class="params">(String anotherString)</span></span><br><span class="line"></span><br><span class="line"><span class="comment">// 根据开始和结束索引来进行截取，得到新的字符串返回</span></span><br><span class="line"><span class="keyword">public</span> String <span class="title function_">substring</span><span class="params">(<span class="type">int</span> beginIndex)</span></span><br><span class="line"></span><br><span class="line"><span class="comment">// 使用新的值， 将字符串中的旧值替换，得到新的字符串</span></span><br><span class="line"><span class="keyword">public</span> String <span class="title function_">replace</span><span class="params">(CharSequence target, CharSequence replacement)</span></span><br><span class="line"></span><br><span class="line"><span class="comment">// 判断字符串中是否包含了某个字符串</span></span><br><span class="line"><span class="keyword">public</span> <span class="type">boolean</span> <span class="title function_">contains</span><span class="params">(CharSequence s)</span></span><br><span class="line"></span><br><span class="line"><span class="comment">// 判断字符串是否以某个字符串内容开头，开头返回true，反之</span></span><br><span class="line"><span class="keyword">public</span> <span class="type">boolean</span> <span class="title function_">startsWith</span><span class="params">(String prefik)</span></span><br><span class="line"></span><br><span class="line"><span class="comment">// 把字符串按照某个字符串内容进行分割，并返回字符串数组</span></span><br><span class="line"><span class="keyword">public</span> String[] split(String regex)</span><br></pre></td></tr></table></figure>
+<h4 id="String-提供的常用方法"><a href="#String-提供的常用方法" class="headerlink" title="String 提供的常用方法"></a>String 提供的常用方法</h4><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">// 返回字符串的长度</span></span><br><span class="line"><span class="keyword">public</span> <span class="type">int</span> <span class="title function_">length</span><span class="params">()</span></span><br><span class="line"></span><br><span class="line"><span class="comment">// 获取某个索引的字符并返回</span></span><br><span class="line"><span class="keyword">public</span> <span class="type">char</span> <span class="title function_">charAt</span><span class="params">(<span class="type">int</span> index)</span></span><br><span class="line"></span><br><span class="line"><span class="comment">// 将当前字符串转换成字符数组返回</span></span><br><span class="line"><span class="keyword">public</span> <span class="type">char</span>[] toCharArray()</span><br><span class="line"></span><br><span class="line"><span class="comment">// 判断当前字符串与另一个字符串的内容一样，一样返回true</span></span><br><span class="line"><span class="keyword">public</span> <span class="type">boolean</span> <span class="title function_">equals</span><span class="params">(Object anObject)</span></span><br><span class="line"></span><br><span class="line"><span class="comment">// 判断当前字符串与另一个字符串的内容一样，一样返回true(忽略大小写)</span></span><br><span class="line"><span class="keyword">public</span> <span class="type">boolean</span> <span class="title function_">equalsIgnoreCase</span><span class="params">(String anotherString)</span></span><br><span class="line"></span><br><span class="line"><span class="comment">// 根据开始和结束索引来进行截取，得到新的字符串返回</span></span><br><span class="line"><span class="keyword">public</span> String <span class="title function_">substring</span><span class="params">(<span class="type">int</span> beginIndex)</span></span><br><span class="line"></span><br><span class="line"><span class="comment">// 使用新的值， 将字符串中的旧值替换，得到新的字符串</span></span><br><span class="line"><span class="keyword">public</span> String <span class="title function_">replace</span><span class="params">(CharSequence target, CharSequence replacement)</span></span><br><span class="line"></span><br><span class="line"><span class="comment">// 判断字符串中是否包含了某个字符串</span></span><br><span class="line"><span class="keyword">public</span> <span class="type">boolean</span> <span class="title function_">contains</span><span class="params">(CharSequence s)</span></span><br><span class="line"></span><br><span class="line"><span class="comment">// 判断字符串是否以某个字符串内容开头，开头返回true，反之</span></span><br><span class="line"><span class="keyword">public</span> <span class="type">boolean</span> <span class="title function_">startsWith</span><span class="params">(String prefik)</span></span><br><span class="line"></span><br><span class="line"><span class="comment">// 把字符串按照某个字符串内容进行分割，并返回字符串数组</span></span><br><span class="line"><span class="keyword">public</span> String[] split(String regex)</span><br></pre></td></tr></table></figure>
+
+
 <hr>
-<h3 id="arraylist集合"><a class="anchor" href="#arraylist集合">#</a> ArrayList 集合</h3>
-<p>常用方法：</p>
+<h3 id="ArrayList集合"><a href="#ArrayList集合" class="headerlink" title="ArrayList集合"></a>ArrayList集合</h3><p>常用方法：</p>
 <figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">// 创建一个空的集合对象</span></span><br><span class="line"><span class="keyword">public</span> <span class="title function_">ArrayList</span><span class="params">()</span></span><br><span class="line"></span><br><span class="line"><span class="comment">// 将指定的元素添加到此集合的末尾</span></span><br><span class="line"><span class="keyword">public</span> <span class="type">boolean</span> <span class="title function_">add</span><span class="params">(E e)</span></span><br><span class="line"></span><br><span class="line"><span class="comment">// 在此集合中的指定位置插入指定的元素</span></span><br><span class="line"><span class="keyword">public</span> <span class="keyword">void</span> <span class="title function_">add</span><span class="params">(<span class="type">int</span> index, E element)</span></span><br><span class="line"></span><br><span class="line"><span class="comment">// 返回指定元素索引处的元素</span></span><br><span class="line"><span class="keyword">public</span> E <span class="title function_">get</span><span class="params">(<span class="type">int</span> index)</span></span><br><span class="line"></span><br><span class="line"><span class="comment">// 返回集合中元素的个数</span></span><br><span class="line"><span class="keyword">public</span> <span class="type">int</span> <span class="title function_">size</span><span class="params">()</span></span><br><span class="line"></span><br><span class="line"><span class="comment">// 删除指定索引处的元素，返回被删除的元素</span></span><br><span class="line"><span class="keyword">public</span> E <span class="title function_">remove</span><span class="params">(<span class="type">int</span> index)</span></span><br><span class="line"></span><br><span class="line"><span class="comment">// 删除指定的元素，返回删除是否成功</span></span><br><span class="line"><span class="keyword">public</span> <span class="type">boolean</span> <span class="title function_">remove</span><span class="params">(Object o)</span></span><br><span class="line"></span><br><span class="line"><span class="comment">// 修改指定索引处的元素，返回被修改的元素</span></span><br><span class="line"><span class="keyword">public</span> E <span class="title function_">set</span><span class="params">(<span class="type">int</span> index, E element)</span></span><br></pre></td></tr></table></figure>
+
+
 <hr>
 
       <div class="tags">
@@ -514,7 +401,7 @@ public                          1                             1                 
     <div class="item left">
       
 
-  <a href="/hello-world/" itemprop="url" rel="prev" data-background-image="https:&#x2F;&#x2F;image.baidu.com&#x2F;search&#x2F;down?url&#x3D;https:&#x2F;&#x2F;tva3.sinaimg.cn&#x2F;mw690&#x2F;6833939bly1gicmnywqgpj20zk0m8dwx.jpg" title="Hello World">
+  <a href="/hello-world/" itemprop="url" rel="prev" data-background-image="https:&#x2F;&#x2F;image.baidu.com&#x2F;search&#x2F;down?url&#x3D;https:&#x2F;&#x2F;tva3.sinaimg.cn&#x2F;mw690&#x2F;6833939bly1giclx29mstj20zk0m8hdt.jpg" title="Hello World">
   <span class="type">上一篇</span>
   <span class="category"><i class="ic i-flag"></i> </span>
   <h3>Hello World</h3>
@@ -524,7 +411,7 @@ public                          1                             1                 
     <div class="item right">
       
 
-  <a href="/Eng%E7%AC%94%E8%AE%B0/" itemprop="url" rel="next" data-background-image="https:&#x2F;&#x2F;image.baidu.com&#x2F;search&#x2F;down?url&#x3D;https:&#x2F;&#x2F;tva3.sinaimg.cn&#x2F;mw690&#x2F;6833939bly1gipey84bjtj20zk0m8hdt.jpg" title="Eng笔记">
+  <a href="/Eng%E7%AC%94%E8%AE%B0/" itemprop="url" rel="next" data-background-image="https:&#x2F;&#x2F;image.baidu.com&#x2F;search&#x2F;down?url&#x3D;https:&#x2F;&#x2F;tva3.sinaimg.cn&#x2F;mw690&#x2F;6833939bly1gipexe4oykj20zk0m87ji.jpg" title="Eng笔记">
   <span class="type">下一篇</span>
   <span class="category"><i class="ic i-flag"></i> English</span>
   <h3>Eng笔记</h3>
@@ -546,7 +433,7 @@ public                          1                             1                 
   <div class="panels">
     <div class="inner">
       <div class="contents panel pjax" data-title="文章目录">
-          <ol class="toc"><li class="toc-item toc-level-3"><a class="toc-link" href="#%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1"><span class="toc-number">1.</span> <span class="toc-text"> 面向对象</span></a><ol class="toc-child"><li class="toc-item toc-level-4"><a class="toc-link" href="#%E5%AF%B9%E8%B1%A1"><span class="toc-number">1.1.</span> <span class="toc-text"> 对象</span></a></li><li class="toc-item toc-level-4"><a class="toc-link" href="#%E6%9E%84%E9%80%A0%E5%99%A8"><span class="toc-number">1.2.</span> <span class="toc-text"> 构造器</span></a></li><li class="toc-item toc-level-4"><a class="toc-link" href="#this%E5%85%B3%E9%94%AE%E5%AD%97"><span class="toc-number">1.3.</span> <span class="toc-text"> this 关键字</span></a></li><li class="toc-item toc-level-4"><a class="toc-link" href="#%E5%B0%81%E8%A3%85"><span class="toc-number">1.4.</span> <span class="toc-text"> 封装</span></a></li><li class="toc-item toc-level-4"><a class="toc-link" href="#%E5%AE%9E%E4%BD%93%E7%B1%BB"><span class="toc-number">1.5.</span> <span class="toc-text"> 实体类</span></a></li><li class="toc-item toc-level-4"><a class="toc-link" href="#static"><span class="toc-number">1.6.</span> <span class="toc-text"> static</span></a><ol class="toc-child"><li class="toc-item toc-level-5"><a class="toc-link" href="#%E5%8F%98%E9%87%8F"><span class="toc-number">1.6.1.</span> <span class="toc-text"> 变量</span></a></li><li class="toc-item toc-level-5"><a class="toc-link" href="#%E6%96%B9%E6%B3%95"><span class="toc-number">1.6.2.</span> <span class="toc-text"> 方法</span></a></li></ol></li><li class="toc-item toc-level-4"><a class="toc-link" href="#%E7%BB%A7%E6%89%BF"><span class="toc-number">1.7.</span> <span class="toc-text"> 继承</span></a><ol class="toc-child"><li class="toc-item toc-level-5"><a class="toc-link" href="#%E7%BB%A7%E6%89%BF-2"><span class="toc-number">1.7.1.</span> <span class="toc-text"> 继承</span></a></li><li class="toc-item toc-level-5"><a class="toc-link" href="#%E6%9D%83%E9%99%90%E4%BF%AE%E9%A5%B0%E7%AC%A6"><span class="toc-number">1.7.2.</span> <span class="toc-text"> 权限修饰符</span></a></li><li class="toc-item toc-level-5"><a class="toc-link" href="#%E7%BB%A7%E6%89%BF%E7%9A%84%E7%89%B9%E7%82%B9"><span class="toc-number">1.7.3.</span> <span class="toc-text"> 继承的特点</span></a></li><li class="toc-item toc-level-5"><a class="toc-link" href="#%E6%96%B9%E6%B3%95%E9%87%8D%E5%86%99"><span class="toc-number">1.7.4.</span> <span class="toc-text"> 方法重写</span></a></li><li class="toc-item toc-level-5"><a class="toc-link" href="#%E5%AD%90%E7%B1%BB%E6%9E%84%E9%80%A0%E5%99%A8"><span class="toc-number">1.7.5.</span> <span class="toc-text"> 子类构造器</span></a></li><li class="toc-item toc-level-5"><a class="toc-link" href="#this%E8%B0%83%E7%94%A8%E5%85%84%E5%BC%9F%E6%9E%84%E9%80%A0%E5%99%A8"><span class="toc-number">1.7.6.</span> <span class="toc-text"> this () 调用兄弟构造器</span></a></li></ol></li><li class="toc-item toc-level-4"><a class="toc-link" href="#%E5%A4%9A%E6%80%81"><span class="toc-number">1.8.</span> <span class="toc-text"> 多态</span></a><ol class="toc-child"><li class="toc-item toc-level-5"><a class="toc-link" href="#%E8%AE%A4%E8%AF%86%E5%A4%9A%E6%80%81"><span class="toc-number">1.8.1.</span> <span class="toc-text"> 认识多态</span></a></li><li class="toc-item toc-level-5"><a class="toc-link" href="#%E5%A4%9A%E6%80%81%E7%9A%84%E5%A5%BD%E5%A4%84"><span class="toc-number">1.8.2.</span> <span class="toc-text"> 多态的好处</span></a></li><li class="toc-item toc-level-5"><a class="toc-link" href="#%E5%A4%9A%E6%80%81%E4%B8%8B%E7%9A%84%E7%B1%BB%E5%9E%8B%E8%BD%AC%E6%8D%A2"><span class="toc-number">1.8.3.</span> <span class="toc-text"> 多态下的类型转换</span></a></li></ol></li><li class="toc-item toc-level-4"><a class="toc-link" href="#final"><span class="toc-number">1.9.</span> <span class="toc-text"> final</span></a><ol class="toc-child"><li class="toc-item toc-level-5"><a class="toc-link" href="#%E8%AE%A4%E8%AF%86final"><span class="toc-number">1.9.1.</span> <span class="toc-text"> 认识 final</span></a></li><li class="toc-item toc-level-5"><a class="toc-link" href="#%E5%8D%95%E4%BE%8B%E7%B1%BB%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F"><span class="toc-number">1.9.2.</span> <span class="toc-text"> 单例类（设计模式）</span></a></li><li class="toc-item toc-level-5"><a class="toc-link" href="#%E6%9E%9A%E4%B8%BE%E7%B1%BB"><span class="toc-number">1.9.3.</span> <span class="toc-text"> 枚举类</span></a></li><li class="toc-item toc-level-5"><a class="toc-link" href="#%E6%9E%9A%E4%B8%BE%E7%B1%BB%E7%9A%84%E5%B8%B8%E8%A7%81%E5%BA%94%E7%94%A8%E5%9C%BA%E6%99%AF"><span class="toc-number">1.9.4.</span> <span class="toc-text"> 枚举类的常见应用场景</span></a></li><li class="toc-item toc-level-5"><a class="toc-link" href="#%E6%8A%BD%E8%B1%A1%E7%B1%BB"><span class="toc-number">1.9.5.</span> <span class="toc-text"> 抽象类</span></a></li><li class="toc-item toc-level-5"><a class="toc-link" href="#%E6%8A%BD%E8%B1%A1%E7%B1%BB%E7%9A%84%E5%A5%BD%E5%A4%84"><span class="toc-number">1.9.6.</span> <span class="toc-text"> 抽象类的好处</span></a></li><li class="toc-item toc-level-5"><a class="toc-link" href="#%E6%A8%A1%E6%9D%BF%E6%96%B9%E6%B3%95"><span class="toc-number">1.9.7.</span> <span class="toc-text"> 模板方法</span></a></li></ol></li><li class="toc-item toc-level-4"><a class="toc-link" href="#%E6%8E%A5%E5%8F%A3"><span class="toc-number">1.10.</span> <span class="toc-text"> 接口</span></a><ol class="toc-child"><li class="toc-item toc-level-5"><a class="toc-link" href="#%E6%8E%A5%E5%8F%A3%E6%A6%82%E8%BF%B0"><span class="toc-number">1.10.1.</span> <span class="toc-text"> 接口概述</span></a></li><li class="toc-item toc-level-5"><a class="toc-link" href="#%E6%8E%A5%E5%8F%A3%E5%A5%BD%E5%A4%84"><span class="toc-number">1.10.2.</span> <span class="toc-text"> 接口好处</span></a></li><li class="toc-item toc-level-5"><a class="toc-link" href="#%E6%8E%A5%E5%8F%A3%E6%96%B0%E5%A2%9E%E7%9A%84%E4%B8%89%E7%A7%8D%E6%96%B9%E6%B3%95"><span class="toc-number">1.10.3.</span> <span class="toc-text"> 接口新增的三种方法</span></a></li><li class="toc-item toc-level-5"><a class="toc-link" href="#%E6%8E%A5%E5%8F%A3%E7%9A%84%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9"><span class="toc-number">1.10.4.</span> <span class="toc-text"> 接口的注意事项</span></a></li><li class="toc-item toc-level-5"><a class="toc-link" href="#%E6%8E%A5%E5%8F%A3%E4%B8%8E%E6%8A%BD%E8%B1%A1%E7%B1%BB"><span class="toc-number">1.10.5.</span> <span class="toc-text"> 接口与抽象类</span></a></li></ol></li><li class="toc-item toc-level-4"><a class="toc-link" href="#%E7%B1%BB%E4%B8%AD%E7%9A%84%E6%88%90%E5%88%86"><span class="toc-number">1.11.</span> <span class="toc-text"> 类中的成分</span></a><ol class="toc-child"><li class="toc-item toc-level-5"><a class="toc-link" href="#%E4%BB%A3%E7%A0%81%E5%9D%97"><span class="toc-number">1.11.1.</span> <span class="toc-text"> 代码块</span></a></li><li class="toc-item toc-level-5"><a class="toc-link" href="#%E5%86%85%E9%83%A8%E7%B1%BB"><span class="toc-number">1.11.2.</span> <span class="toc-text"> 内部类</span></a></li><li class="toc-item toc-level-5"><a class="toc-link" href="#lambda%E8%A1%A8%E8%BE%BE%E5%BC%8F"><span class="toc-number">1.11.3.</span> <span class="toc-text"> lambda 表达式</span></a></li></ol></li><li class="toc-item toc-level-4"><a class="toc-link" href="#%E6%96%B9%E6%B3%95%E5%BC%95%E7%94%A8"><span class="toc-number">1.12.</span> <span class="toc-text"> 方法引用</span></a><ol class="toc-child"><li class="toc-item toc-level-5"><a class="toc-link" href="#%E9%9D%99%E6%80%81%E6%96%B9%E6%B3%95%E5%BC%95%E7%94%A8"><span class="toc-number">1.12.1.</span> <span class="toc-text"> 静态方法引用</span></a></li><li class="toc-item toc-level-5"><a class="toc-link" href="#%E5%AE%9E%E4%BE%8B%E6%96%B9%E6%B3%95%E5%BC%95%E7%94%A8"><span class="toc-number">1.12.2.</span> <span class="toc-text"> 实例方法引用</span></a></li><li class="toc-item toc-level-5"><a class="toc-link" href="#%E7%89%B9%E5%AE%9A%E7%B1%BB%E7%9A%84%E6%96%B9%E6%B3%95%E5%BA%94%E7%94%A8"><span class="toc-number">1.12.3.</span> <span class="toc-text"> 特定类的方法应用</span></a></li><li class="toc-item toc-level-5"><a class="toc-link" href="#%E6%9E%84%E9%80%A0%E5%99%A8%E5%BC%95%E7%94%A8"><span class="toc-number">1.12.4.</span> <span class="toc-text"> 构造器引用</span></a></li></ol></li></ol></li><li class="toc-item toc-level-3"><a class="toc-link" href="#%E5%B8%B8%E7%94%A8api"><span class="toc-number">2.</span> <span class="toc-text"> 常用 API</span></a><ol class="toc-child"><li class="toc-item toc-level-4"><a class="toc-link" href="#string-%E5%88%9B%E5%BB%BA%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%AF%B9%E8%B1%A1%E7%9A%84%E6%96%B9%E5%BC%8F"><span class="toc-number">2.1.</span> <span class="toc-text"> String 创建字符串对象的方式</span></a></li><li class="toc-item toc-level-4"><a class="toc-link" href="#string-%E6%8F%90%E4%BE%9B%E7%9A%84%E5%B8%B8%E7%94%A8%E6%96%B9%E6%B3%95"><span class="toc-number">2.2.</span> <span class="toc-text"> String 提供的常用方法</span></a></li></ol></li><li class="toc-item toc-level-3"><a class="toc-link" href="#arraylist%E9%9B%86%E5%90%88"><span class="toc-number">3.</span> <span class="toc-text"> ArrayList 集合</span></a></li></ol>
+          <ol class="toc"><li class="toc-item toc-level-3"><a class="toc-link" href="#%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1"><span class="toc-number">1.</span> <span class="toc-text">面向对象</span></a><ol class="toc-child"><li class="toc-item toc-level-4"><a class="toc-link" href="#%E5%AF%B9%E8%B1%A1"><span class="toc-number">1.1.</span> <span class="toc-text">对象</span></a></li><li class="toc-item toc-level-4"><a class="toc-link" href="#%E6%9E%84%E9%80%A0%E5%99%A8"><span class="toc-number">1.2.</span> <span class="toc-text">构造器</span></a></li><li class="toc-item toc-level-4"><a class="toc-link" href="#this%E5%85%B3%E9%94%AE%E5%AD%97"><span class="toc-number">1.3.</span> <span class="toc-text">this关键字</span></a></li><li class="toc-item toc-level-4"><a class="toc-link" href="#%E5%B0%81%E8%A3%85"><span class="toc-number">1.4.</span> <span class="toc-text">封装</span></a></li><li class="toc-item toc-level-4"><a class="toc-link" href="#%E5%AE%9E%E4%BD%93%E7%B1%BB"><span class="toc-number">1.5.</span> <span class="toc-text">实体类</span></a></li><li class="toc-item toc-level-4"><a class="toc-link" href="#static"><span class="toc-number">1.6.</span> <span class="toc-text">static</span></a><ol class="toc-child"><li class="toc-item toc-level-5"><a class="toc-link" href="#%E5%8F%98%E9%87%8F"><span class="toc-number">1.6.1.</span> <span class="toc-text">变量</span></a></li><li class="toc-item toc-level-5"><a class="toc-link" href="#%E6%96%B9%E6%B3%95"><span class="toc-number">1.6.2.</span> <span class="toc-text">方法</span></a></li></ol></li><li class="toc-item toc-level-4"><a class="toc-link" href="#%E7%BB%A7%E6%89%BF"><span class="toc-number">1.7.</span> <span class="toc-text">继承</span></a><ol class="toc-child"><li class="toc-item toc-level-5"><a class="toc-link" href="#%E7%BB%A7%E6%89%BF-1"><span class="toc-number">1.7.1.</span> <span class="toc-text">继承</span></a></li><li class="toc-item toc-level-5"><a class="toc-link" href="#%E6%9D%83%E9%99%90%E4%BF%AE%E9%A5%B0%E7%AC%A6"><span class="toc-number">1.7.2.</span> <span class="toc-text">权限修饰符</span></a></li><li class="toc-item toc-level-5"><a class="toc-link" href="#%E7%BB%A7%E6%89%BF%E7%9A%84%E7%89%B9%E7%82%B9"><span class="toc-number">1.7.3.</span> <span class="toc-text">继承的特点</span></a></li><li class="toc-item toc-level-5"><a class="toc-link" href="#%E6%96%B9%E6%B3%95%E9%87%8D%E5%86%99"><span class="toc-number">1.7.4.</span> <span class="toc-text">方法重写</span></a></li><li class="toc-item toc-level-5"><a class="toc-link" href="#%E5%AD%90%E7%B1%BB%E6%9E%84%E9%80%A0%E5%99%A8"><span class="toc-number">1.7.5.</span> <span class="toc-text">子类构造器</span></a></li><li class="toc-item toc-level-5"><a class="toc-link" href="#this-%E8%B0%83%E7%94%A8%E5%85%84%E5%BC%9F%E6%9E%84%E9%80%A0%E5%99%A8"><span class="toc-number">1.7.6.</span> <span class="toc-text">this()调用兄弟构造器</span></a></li></ol></li><li class="toc-item toc-level-4"><a class="toc-link" href="#%E5%A4%9A%E6%80%81"><span class="toc-number">1.8.</span> <span class="toc-text">多态</span></a><ol class="toc-child"><li class="toc-item toc-level-5"><a class="toc-link" href="#%E8%AE%A4%E8%AF%86%E5%A4%9A%E6%80%81"><span class="toc-number">1.8.1.</span> <span class="toc-text">认识多态</span></a></li><li class="toc-item toc-level-5"><a class="toc-link" href="#%E5%A4%9A%E6%80%81%E7%9A%84%E5%A5%BD%E5%A4%84"><span class="toc-number">1.8.2.</span> <span class="toc-text">多态的好处</span></a></li><li class="toc-item toc-level-5"><a class="toc-link" href="#%E5%A4%9A%E6%80%81%E4%B8%8B%E7%9A%84%E7%B1%BB%E5%9E%8B%E8%BD%AC%E6%8D%A2"><span class="toc-number">1.8.3.</span> <span class="toc-text">多态下的类型转换</span></a></li></ol></li><li class="toc-item toc-level-4"><a class="toc-link" href="#final"><span class="toc-number">1.9.</span> <span class="toc-text">final</span></a><ol class="toc-child"><li class="toc-item toc-level-5"><a class="toc-link" href="#%E8%AE%A4%E8%AF%86final"><span class="toc-number">1.9.1.</span> <span class="toc-text">认识final</span></a></li><li class="toc-item toc-level-5"><a class="toc-link" href="#%E5%8D%95%E4%BE%8B%E7%B1%BB%EF%BC%88%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%EF%BC%89"><span class="toc-number">1.9.2.</span> <span class="toc-text">单例类（设计模式）</span></a></li><li class="toc-item toc-level-5"><a class="toc-link" href="#%E6%9E%9A%E4%B8%BE%E7%B1%BB"><span class="toc-number">1.9.3.</span> <span class="toc-text">枚举类</span></a></li><li class="toc-item toc-level-5"><a class="toc-link" href="#%E6%9E%9A%E4%B8%BE%E7%B1%BB%E7%9A%84%E5%B8%B8%E8%A7%81%E5%BA%94%E7%94%A8%E5%9C%BA%E6%99%AF"><span class="toc-number">1.9.4.</span> <span class="toc-text">枚举类的常见应用场景</span></a></li><li class="toc-item toc-level-5"><a class="toc-link" href="#%E6%8A%BD%E8%B1%A1%E7%B1%BB"><span class="toc-number">1.9.5.</span> <span class="toc-text">抽象类</span></a></li><li class="toc-item toc-level-5"><a class="toc-link" href="#%E6%8A%BD%E8%B1%A1%E7%B1%BB%E7%9A%84%E5%A5%BD%E5%A4%84"><span class="toc-number">1.9.6.</span> <span class="toc-text">抽象类的好处</span></a></li><li class="toc-item toc-level-5"><a class="toc-link" href="#%E6%A8%A1%E6%9D%BF%E6%96%B9%E6%B3%95"><span class="toc-number">1.9.7.</span> <span class="toc-text">模板方法</span></a></li></ol></li><li class="toc-item toc-level-4"><a class="toc-link" href="#%E6%8E%A5%E5%8F%A3"><span class="toc-number">1.10.</span> <span class="toc-text">接口</span></a><ol class="toc-child"><li class="toc-item toc-level-5"><a class="toc-link" href="#%E6%8E%A5%E5%8F%A3%E6%A6%82%E8%BF%B0"><span class="toc-number">1.10.1.</span> <span class="toc-text">接口概述</span></a></li><li class="toc-item toc-level-5"><a class="toc-link" href="#%E6%8E%A5%E5%8F%A3%E5%A5%BD%E5%A4%84"><span class="toc-number">1.10.2.</span> <span class="toc-text">接口好处</span></a></li><li class="toc-item toc-level-5"><a class="toc-link" href="#%E6%8E%A5%E5%8F%A3%E6%96%B0%E5%A2%9E%E7%9A%84%E4%B8%89%E7%A7%8D%E6%96%B9%E6%B3%95"><span class="toc-number">1.10.3.</span> <span class="toc-text">接口新增的三种方法</span></a></li><li class="toc-item toc-level-5"><a class="toc-link" href="#%E6%8E%A5%E5%8F%A3%E7%9A%84%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9"><span class="toc-number">1.10.4.</span> <span class="toc-text">接口的注意事项</span></a></li><li class="toc-item toc-level-5"><a class="toc-link" href="#%E6%8E%A5%E5%8F%A3%E4%B8%8E%E6%8A%BD%E8%B1%A1%E7%B1%BB"><span class="toc-number">1.10.5.</span> <span class="toc-text">接口与抽象类</span></a></li></ol></li><li class="toc-item toc-level-4"><a class="toc-link" href="#%E7%B1%BB%E4%B8%AD%E7%9A%84%E6%88%90%E5%88%86"><span class="toc-number">1.11.</span> <span class="toc-text">类中的成分</span></a><ol class="toc-child"><li class="toc-item toc-level-5"><a class="toc-link" href="#%E4%BB%A3%E7%A0%81%E5%9D%97"><span class="toc-number">1.11.1.</span> <span class="toc-text">代码块</span></a></li><li class="toc-item toc-level-5"><a class="toc-link" href="#%E5%86%85%E9%83%A8%E7%B1%BB"><span class="toc-number">1.11.2.</span> <span class="toc-text">内部类</span></a></li><li class="toc-item toc-level-5"><a class="toc-link" href="#lambda%E8%A1%A8%E8%BE%BE%E5%BC%8F"><span class="toc-number">1.11.3.</span> <span class="toc-text">lambda表达式</span></a></li></ol></li><li class="toc-item toc-level-4"><a class="toc-link" href="#%E6%96%B9%E6%B3%95%E5%BC%95%E7%94%A8"><span class="toc-number">1.12.</span> <span class="toc-text">方法引用</span></a><ol class="toc-child"><li class="toc-item toc-level-5"><a class="toc-link" href="#%E9%9D%99%E6%80%81%E6%96%B9%E6%B3%95%E5%BC%95%E7%94%A8"><span class="toc-number">1.12.1.</span> <span class="toc-text">静态方法引用</span></a></li><li class="toc-item toc-level-5"><a class="toc-link" href="#%E5%AE%9E%E4%BE%8B%E6%96%B9%E6%B3%95%E5%BC%95%E7%94%A8"><span class="toc-number">1.12.2.</span> <span class="toc-text">实例方法引用</span></a></li><li class="toc-item toc-level-5"><a class="toc-link" href="#%E7%89%B9%E5%AE%9A%E7%B1%BB%E7%9A%84%E6%96%B9%E6%B3%95%E5%BA%94%E7%94%A8"><span class="toc-number">1.12.3.</span> <span class="toc-text">特定类的方法应用</span></a></li><li class="toc-item toc-level-5"><a class="toc-link" href="#%E6%9E%84%E9%80%A0%E5%99%A8%E5%BC%95%E7%94%A8"><span class="toc-number">1.12.4.</span> <span class="toc-text">构造器引用</span></a></li></ol></li></ol></li><li class="toc-item toc-level-3"><a class="toc-link" href="#%E5%B8%B8%E7%94%A8API"><span class="toc-number">2.</span> <span class="toc-text">常用API</span></a><ol class="toc-child"><li class="toc-item toc-level-4"><a class="toc-link" href="#String-%E5%88%9B%E5%BB%BA%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%AF%B9%E8%B1%A1%E7%9A%84%E6%96%B9%E5%BC%8F"><span class="toc-number">2.1.</span> <span class="toc-text">String 创建字符串对象的方式</span></a></li><li class="toc-item toc-level-4"><a class="toc-link" href="#String-%E6%8F%90%E4%BE%9B%E7%9A%84%E5%B8%B8%E7%94%A8%E6%96%B9%E6%B3%95"><span class="toc-number">2.2.</span> <span class="toc-text">String 提供的常用方法</span></a></li></ol></li><li class="toc-item toc-level-3"><a class="toc-link" href="#ArrayList%E9%9B%86%E5%90%88"><span class="toc-number">3.</span> <span class="toc-text">ArrayList集合</span></a></li></ol>
       </div>
       <div class="related panel pjax" data-title="系列文章">
         <ul>
@@ -662,9 +549,10 @@ public                          1                             1                 
   <li class="item">
     
 <div class="breadcrumb">
+<a href="/categories/English/" title="分类于 English">English</a>
 </div>
 
-    <span><a href="/hello-world/" title="Hello World">Hello World</a></span>
+    <span><a href="/Eng%E7%AC%94%E8%AE%B0/" title="Eng笔记">Eng笔记</a></span>
   </li>
 
       
@@ -681,10 +569,9 @@ public                          1                             1                 
   <li class="item">
     
 <div class="breadcrumb">
-<a href="/categories/English/" title="分类于 English">English</a>
 </div>
 
-    <span><a href="/Eng%E7%AC%94%E8%AE%B0/" title="Eng笔记">Eng笔记</a></span>
+    <span><a href="/hello-world/" title="Hello World">Hello World</a></span>
   </li>
 
   </ul>
@@ -709,13 +596,13 @@ public                          1                             1                 
     <span class="post-meta-item-icon">
       <i class="ic i-chart-area"></i>
     </span>
-    <span title="站点总字数">19k 字</span>
+    <span title="站点总字数">21k 字</span>
 
     <span class="post-meta-divider">|</span>
     <span class="post-meta-item-icon">
       <i class="ic i-coffee"></i>
     </span>
-    <span title="站点阅读时长">17 分钟</span>
+    <span title="站点阅读时长">19 分钟</span>
   </div>
   <div class="powered-by">
     基于 <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlv">Hexo</span> & Theme.<span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL2FtZWhpbWUvaGV4by10aGVtZS1zaG9rYQ==">Shoka</span>
