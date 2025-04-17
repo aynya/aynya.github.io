@@ -100,15 +100,15 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://aynya.github.io/%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE%E5%A6%82%E4%BD%95%E5%AF%BC%E5%87%BAxmind%E6%A0%BC%E5%BC%8F%E6%96%87%E4%BB%B6/</guid>
-            <title>思维导图如何导出xmind格式文件</title>
-            <link>https://aynya.github.io/%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE%E5%A6%82%E4%BD%95%E5%AF%BC%E5%87%BAxmind%E6%A0%BC%E5%BC%8F%E6%96%87%E4%BB%B6/</link>
+            <guid isPermalink="true">https://aynya.github.io/%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE%E5%A6%82%E4%BD%95%E5%AF%BC%E5%87%BA%E5%AF%BC%E5%85%A5xmind%E6%A0%BC%E5%BC%8F%E6%96%87%E4%BB%B6/</guid>
+            <title>思维导图如何导出导入xmind格式文件</title>
+            <link>https://aynya.github.io/%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE%E5%A6%82%E4%BD%95%E5%AF%BC%E5%87%BA%E5%AF%BC%E5%85%A5xmind%E6%A0%BC%E5%BC%8F%E6%96%87%E4%BB%B6/</link>
             <category term="canvas" scheme="https://aynya.github.io/categories/canvas/" />
             <category term="React" scheme="https://aynya.github.io/tags/React/" />
             <category term="xmind" scheme="https://aynya.github.io/tags/xmind/" />
             <category term="TypeScript" scheme="https://aynya.github.io/tags/TypeScript/" />
             <pubDate>Wed, 16 Apr 2025 21:14:40 +0800</pubDate>
-            <description><![CDATA[ &lt;h1 id=&#34;如何将思维导图导出为xmind文件&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#如何将思维导图导出为xmind文件&#34;&gt;#&lt;/a&gt; 📝如何将思维导图导出为 XMind 文件&lt;/h1&gt;
+            <description><![CDATA[ &lt;h1 id=&#34;如何将思维导图导出导入为xmind文件&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#如何将思维导图导出导入为xmind文件&#34;&gt;#&lt;/a&gt; 📝如何将思维导图导出导入为 XMind 文件&lt;/h1&gt;
 &lt;p&gt;&lt;code&gt;Xmind&lt;/code&gt;  文件本质上是一个 &lt;code&gt;ZIP&lt;/code&gt;  压缩包。其中包含了多个 JSON 文件 (如 &lt;code&gt;content.json&lt;/code&gt; ，  &lt;code&gt;metadata.json&lt;/code&gt;  等)，这些文件描述了思维导图的内容和结构&lt;/p&gt;
 &lt;h2 id=&#34;1-️-准备工作&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#1-️-准备工作&#34;&gt;#&lt;/a&gt; 1. 🛠️ 准备工作&lt;/h2&gt;
 &lt;ul&gt;
